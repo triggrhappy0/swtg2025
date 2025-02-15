@@ -1,0 +1,3110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name></name>
+<longname></longname>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Arrest</name>
+ <set picURL="/Arrest.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature can’t attack or block and its activated abilities can’t be activated.</text>
+</card>
+<card>
+ <name>Bantha Herd</name>
+ <set picURL="/Bantha Herd.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <type>Creature - Beast </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>XXW: Monstrosity X (If this creature isn’t monstrous, put X +1/+1 counters on it and it becomes monstrous.)
+When this creature becomes monstrous, create twice X 1/1 white Tusken Raider creature tokens.</text>
+</card>
+<card>
+ <name>The Battle of Hoth</name>
+ <set picURL="/The Battle of Hoth.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>XXWWW</manacost>
+ <type>Battle - Siege // Artifact</type>
+ <tablerow>1</tablerow>
+ <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, exile it, then cast it transformed.)
+When this battle enters, create X 5/5 white artifact AT-AT creature tokens with “When this creature dies, create two 1/1 white Trooper creature tokens.”
+--- 
+2W, T: Create a token that’s a copy of target untapped creature you control that didn’t enter this turn.</text>
+</card>
+<card>
+ <name>The Battle of Scarif</name>
+ <set picURL="/The Battle of Scarif.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Battle - Siege // Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, exile it, then cast it transformed.)
+When this battle enters, look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+--- 
+2, T: Put a +1/+1 counter on target creature.</text>
+</card>
+<card>
+ <name>Battle Tactics</name>
+ <set picURL="/Battle Tactics.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control get +2/+1 and gain lifelink until end of turn.</text>
+</card>
+<card>
+ <name>Cantina Band</name>
+ <set picURL="/Cantina Band.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Creature - Bith </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>1, T: Tap target nonartifact creature.</text>
+</card>
+<card>
+ <name>Condemn</name>
+ <set picURL="/Condemn.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put target attacking creature on the bottom of its owner’s library. Its controller gains life equal to its toughness.</text>
+</card>
+<card>
+ <name>Deploy the Troops</name>
+ <set picURL="/Deploy the Troops.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Create three 1/1 white Trooper creature tokens.</text>
+</card>
+<card>
+ <name>Droideka</name>
+ <set picURL="/Droideka.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <type>Artifact Creature - Droid </type>
+ <pt>3/6</pt>
+ <tablerow>2</tablerow>
+ <text>2U: Change a target of target spell or ability to this creature.
+Repair 3 (When this creature dies, put three repair counters on it. At the beginning of your upkeep, remove a repair counter. When the last is removed, you may cast it this turn.)</text>
+</card>
+<card>
+ <name>EMP Blast</name>
+ <set picURL="/EMP Blast.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target artifact. Tap all other artifacts.</text>
+</card>
+<card>
+ <name>Escape Pod</name>
+ <set picURL="/Escape Pod.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Exile target creature you control. Return that card to the battlefield under your control at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Force Healing</name>
+ <set picURL="/Force Healing.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose a color. You and up to one target creature you control gain hexproof from that color until end of turn. scry 1.</text>
+</card>
+<card>
+ <name>Gifted Initiate</name>
+ <set picURL="/Gifted Initiate.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Jedi </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, you may tap target creature. If you do, tap this creature.
+1W: Meditate. (Return this creature to its owner’s hand. The first Jedi spell you cast on your next turn costs 2 less to cast. Meditate only as a sorcery.)</text>
+</card>
+<card>
+ <name>Heavy Trooper</name>
+ <set picURL="/Heavy Trooper.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Trooper </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Troopers you control get +0/+1.</text>
+</card>
+<card>
+ <name>Ion Cannon</name>
+ <set picURL="/Ion Cannon.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Artifact Creature - Construct </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+T: Target creature loses capital ship, flying, and all creature types until end of turn.</text>
+</card>
+<card>
+ <name>Jedi Battle Healer</name>
+ <set picURL="/Jedi Battle Healer.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Mirialan Jedi </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+When this creature enters, you gain 2 life.
+1W: Meditate. (Return this creature to its owner’s hand. The first Jedi spell you cast on your next turn costs 2 less to cast. Meditate only as a sorcery.)</text>
+</card>
+<card>
+ <name>Jedi Inquirer</name>
+ <set picURL="/Jedi Inquirer.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Jedi </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, exile up to one target battle, enchantment, or card in a graveyard.
+2W: Meditate. (Return this creature to its owner’s hand. The first Jedi spell you cast on your next turn costs 2 less to cast. Meditate only as a sorcery.)</text>
+</card>
+<card>
+ <name>Jedi Instructor</name>
+ <set picURL="/Jedi Instructor.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <type>Creature - Twi’lek Jedi </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, put a +1/+1 counter on up to one other target creature.
+1W: Meditate</text>
+</card>
+<card>
+ <name>Jedi Reflexes</name>
+ <set picURL="/Jedi Reflexes.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Untap target creature. It gets +2/+2 until end of turn and can block an additional creature this turn.</text>
+</card>
+<card>
+ <name>Jedi Starfighter</name>
+ <set picURL="/Jedi Starfighter.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Artifact Creature - Jedi Starship </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When this creature enters, up to two target Jedi you control gain flying until end of turn.
+1W: Meditate. (Return this creature to its owner’s hand. The first Jedi spell you cast on your next turn costs 2 less to cast. Meditate only as a sorcery.)</text>
+</card>
+<card>
+ <name>LAAT Gunship</name>
+ <set picURL="/LAAT Gunship.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Artifact Creature - Starship </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever this creature attacks, create a 1/1 white Trooper creature token that’s tapped and attacking.
+W: This creature gains flying until end of turn. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Lando Calrissian</name>
+ <set picURL="/Lando Calrissian.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Legendary Creature - Human Rogue </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lando Calrissian has first strike as long as he’s attacking.
+At the beginning of combat on your turn, target Starship you control gets +1/+1 and gains vigilance until end of turn.</text>
+</card>
+<card>
+ <name>Loyal Tauntaun</name>
+ <set picURL="/Loyal Tauntaun.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature - Beast </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>1G: Monstrosity 1. (If this creature isn’t monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+When this creature dies, return target creature card with lesser toughness from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Maintenance Hangar</name>
+ <set picURL="/Maintenance Hangar.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Starships you control have repair 6. (Whenever a Starship dies, put six repair counters on it. At the beginning of your upkeep, remove a repair counter. When the last is removed, you may cast it this turn.)
+When maintenance hangar enters, put 6 repair counters on each Starship card in your graveyard.
+At the beginning of your upkeep, remove an additional repair counter from each card in your graveyard.</text>
+</card>
+<card>
+ <name>Miraculous Recovery</name>
+ <set picURL="/Miraculous Recovery.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature card from your graveyard to the battlefield with an additional +1/+1 counter on it.</text>
+</card>
+<card>
+ <name>Nebulon-B Frigate</name>
+ <set picURL="/Nebulon-B Frigate.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <type>Artifact Creature - Starship </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Capital ship (This creature can only block or be blocked by creatures with capital ship or flying.)
+When this creature enters, creatures you control gain vigilance until end of turn.</text>
+</card>
+<card>
+ <name>Orbital Bombardment</name>
+ <set picURL="/Orbital Bombardment.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3WW</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy all non-Starship creatures.</text>
+</card>
+<card>
+ <name>Plo Koon</name>
+ <set picURL="/Plo Koon.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <type>Legendary Creature - KelDor Jedi </type>
+ <pt>5/6</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+You may activate meditate abilities any time you could cast an instant.
+1W: Meditate </text>
+</card>
+<card>
+ <name>Princess Leia</name>
+ <set picURL="/Princess Leia.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>4WW</manacost>
+ <type>Legendary Creature - Human Rebel </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Other Rebels you control get +1/+1 and have vigilance.
+When Princess Leia enters, create three 1/1 white Rebel creature tokens.
+When Princess Leia dies, you may pay 1U. If you do, return her to your hand.</text>
+</card>
+<card>
+ <name>Riding Ronto</name>
+ <set picURL="/Riding Ronto.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Beast </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+3W: Monstrosity 2. (If this creature isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous.)</text>
+</card>
+<card>
+ <name>Sand Trooper</name>
+ <set picURL="/Sand Trooper.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Creature - Human Trooper </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Troopers you control have vigilance.</text>
+</card>
+<card>
+ <name>Security Droid</name>
+ <set picURL="/Security Droid.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <type>Artifact Creature - Droid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, create a 1/1 colorless Droid artifact creature token.
+Repair 3 (When this creature dies, put three repair counters on it. At the beginning of your upkeep, remove a repair counter. When the last is removed, you may cast it this turn.)</text>
+</card>
+<card>
+ <name>Snow Trooper</name>
+ <set picURL="/Snow Trooper.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Creature - Human Trooper </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Troopers you control have first strike.</text>
+</card>
+<card>
+ <name>Womp Rat</name>
+ <set picURL="/Womp Rat.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <type>Creature - Rat Beast </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>1W: Monstrosity 1. (If this creature isn’t monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+When this creature becomes monstrous, it gains lifelink and vigilance until end of turn. Exile up to one target card from a graveyard.</text>
+</card>
+<card>
+ <name>X-Wing</name>
+ <set picURL="/X-Wing.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <type>Artifact Creature - Rebel Starship </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, vigilance</text>
+</card>
+<card>
+ <name>Admiral Ackbar</name>
+ <set picURL="/Admiral Ackbar.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>4UU</manacost>
+ <type>Legendary Creature - Calamari Rebel </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When you cast this spell, create two 2/2 blue Rebel Starship artifact creature tokens with flying named B-Wing.
+At the beginning of each upkeep, untap all Starships you control.
+Whenever two or more Starships you control attack, draw a card.</text>
+</card>
+<card>
+ <name>Armed Protocol Droid</name>
+ <set picURL="/Armed Protocol Droid.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Artifact Creature - Droid Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Sacrifice this creature: You may cast artifact spells as though they had flash this turn.
+Repair 3 (When this creature dies, put three repair counters on it. At the beginning of your upkeep, remove a repair counter. When the last is removed, you may cast it this turn.)</text>
+</card>
+<card>
+ <name>The Battle of Kamino</name>
+ <set picURL="/The Battle of Kamino.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Battle - Siege // Artifact</type>
+ <tablerow>1</tablerow>
+ <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, exile it, then cast it transformed.)
+When this battle enters, return up to one target artifact or creature to its owner’s hand.
+--- 
+2, T, Sacrifice this artifact: Copy target creature spell you control.</text>
+</card>
+<card>
+ <name>The Battle of Naboo</name>
+ <set picURL="/The Battle of Naboo.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>XXUU</manacost>
+ <type>Battle - Siege // Artifact</type>
+ <tablerow>1</tablerow>
+ <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, exile it, then cast it transformed.)
+When this battle enters, return up to X target creatures to their owner’s hands. Draw twice X cards.
+--- 
+Creatures can’t attack you unless their controller pays 2 for each creature they control that’s attacking you.</text>
+</card>
+<card>
+ <name>Cloaking Device</name>
+ <set picURL="/Cloaking Device.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Enchant creature
+When this Aura enters, enchanted creature gains hexproof until end of turn.
+Whenever enchanted creature attacks, defending player loses 1 life.</text>
+</card>
+<card>
+ <name>Force Denial</name>
+ <set picURL="/Force Denial.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell unless its controller pays 2.
+Hate — If an opponent lost life this turn, counter that spell instead.
+Scry 1.</text>
+</card>
+<card>
+ <name>Force Push</name>
+ <set picURL="/Force Push.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return target creatue to its owner’s hand. Its controller loses 1 life.</text>
+</card>
+<card>
+ <name>Force Repulse</name>
+ <set picURL="/Force Repulse.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>The owner of target spell or nonland permanent puts it on the top or bottom of their library. Scry 1.</text>
+</card>
+<card>
+ <name>Gungan Captain</name>
+ <set picURL="/Gungan Captain.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Gungan Warrior </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever Gungan Captain deals damage to a creature, tap that creature and put a stun counter on it.</text>
+</card>
+<card>
+ <name>Jar Jar Binks</name>
+ <set picURL="/Jar Jar Binks.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Legendary Creature - Gungan </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>Jar Jar Binks can’t block.
+When Jar Jar Binks enters, target opponent gains control of him.
+At the beginning of combat on your turn, tap a creature with the greatest power among creatures you control.</text>
+</card>
+<card>
+ <name>Jedi Battle Mage</name>
+ <set picURL="/Jedi Battle Mage.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Creature - Human Jedi </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, tap target creature an opponet controls and put a stun counter on it.
+1U: Meditate. (Return this creature to its owner’s hand. The first Jedi spell you cast on your next turn costs 2 less to cast. Meditate only as a sorcery.)</text>
+</card>
+<card>
+ <name>Jedi Mind Trick</name>
+ <set picURL="/Jedi Mind Trick.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>6U</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You control target player during that player’s next turn.</text>
+</card>
+<card>
+ <name>Jedi Training</name>
+ <set picURL="/Jedi Training.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Meditate abilities you activate cost 1 less to activate.
+Whenever a Jedi you control leaves the battlefield without dying, scry 1.</text>
+</card>
+<card>
+ <name>Jump to Hyperspace</name>
+ <set picURL="/Jump to Hyperspace.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return all attacking creatures to their owner’s hands.</text>
+</card>
+<card>
+ <name>Jump Trooper</name>
+ <set picURL="/Jump Trooper.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Human Trooper </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Troopers you control have ward 2.</text>
+</card>
+<card>
+ <name>Mace Windu</name>
+ <set picURL="/Mace Windu.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <type>Legendary Creature - Human Jedi </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Mace Windu enters, return target spell or creature you don’t control to its owner’s hand.
+1U: Meditate. (Return this creature to its owner’s hand. The first Jedi spell you cast on your next turn costs 2 less to cast. Meditate only as a sorcery.)</text>
+</card>
+<card>
+ <name>Mon Calamari Cruiser</name>
+ <set picURL="/Mon Calamari Cruiser.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>3UU</manacost>
+ <type>Artifact Creature - Starship </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Capital ship (This creature can only block or be blocked by creatures with capital ship or flying.)
+Whenever this creature deals combat damage to a player or battle, draw a card.</text>
+</card>
+<card>
+ <name>Mon Calamari Initiate</name>
+ <set picURL="/Mon Calamari Initiate.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Creature - Calamari Jedi </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, draw a card.
+1U: Meditate. (Return this creature to its owner’s hand. The first Jedi spell you cast on your next turn costs 2 less to cast. Meditate only as a sorcery.)</text>
+</card>
+<card>
+ <name>Ortolan Keyboardist</name>
+ <set picURL="/Ortolan Keyboardist.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Ortolan </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Draw a card, then discard a card.</text>
+</card>
+<card>
+ <name>Personal Energy Shield</name>
+ <set picURL="/Personal Energy Shield.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell that targets you or a permanent you control.</text>
+</card>
+<card>
+ <name>Preordain</name>
+ <set picURL="/Preordain.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Scry 2, then draw a card.</text>
+</card>
+<card>
+ <name>Probe Droid</name>
+ <set picURL="/Probe Droid.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <type>Artifact Creature - Droid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, target player reveals their hand.
+Repair 3 (When this creature dies, put three repair counters on it. At the beginning of your upkeep, remove a repair counter. When the last is removed, you may cast it this turn.)</text>
+</card>
+<card>
+ <name>Republic Frigate</name>
+ <set picURL="/Republic Frigate.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Artifact Creature - Starship </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever a Trooper you control enters, untap this creature.</text>
+</card>
+<card>
+ <name>Rumination</name>
+ <set picURL="/Rumination.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Draw three cards, then put a card from your hand on top of your library.</text>
+</card>
+<card>
+ <name>Shadow Trooper</name>
+ <set picURL="/Shadow Trooper.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature - Human Trooper </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+You may cast Trooper spells as though they had flash.</text>
+</card>
+<card>
+ <name>Sith Manipulator</name>
+ <set picURL="/Sith Manipulator.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <type>Creature - Human Sith </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, return up to one target artifact or creature to its owner’s hand. 
+Hate — If an opponent lost life this turn, put that permanent on top of its owner’s library instead.</text>
+</card>
+<card>
+ <name>Sith Sorcerer</name>
+ <set picURL="/Sith Sorcerer.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Creature - Human Sith </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, scry 2.
+Hate — When this creature dies, if an opponent lost life this turn, draw a card.</text>
+</card>
+<card>
+ <name>Spider Droid</name>
+ <set picURL="/Spider Droid.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Artifact Creature - Droid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Repair 5 (When this creature dies, put five repair counters on it. At the beginning of your upkeep, remove a repair counter. When the last is removed, you may cast it this turn.)
+Whenever a nontoken creature you control leaves the battlefield while this card is in your graveyard, you may remove a repair counter from this card.</text>
+</card>
+<card>
+ <name>Super Battle Droid</name>
+ <set picURL="/Super Battle Droid.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>5U</manacost>
+ <type>Artifact Creature - Droid </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Repair 2 (When this creature dies, put two repair counters on it. At the beginning of your upkeep, remove a repair counter. When the last is removed, you may cast it this turn.)</text>
+</card>
+<card>
+ <name>Surprise Maneuver</name>
+ <set picURL="/Surprise Maneuver.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Untap target creature.
+Draw a card.</text>
+</card>
+<card>
+ <name>Ugnaught Scrap Worker</name>
+ <set picURL="/Ugnaught Scrap Worker.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <type>Creature - Ugnhaught Artificer </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Droid spells you cast cost 1 less to cast.</text>
+</card>
+<card>
+ <name>Y-Wing</name>
+ <set picURL="/Y-Wing.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <type>Artifact Creature - Rebel Starship </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever this creature deals combat damage to a player or battle, you may pay 1. If you do, tap target creature that player controls and put a stun counter on it.</text>
+</card>
+<card>
+ <name>Zam Wesell</name>
+ <set picURL="/Zam Wesell.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <type>Legendary Creature - Shapeshifter Hunter </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>As Zam Wesell enters, each opponent reveals their hand. You may have Zam Wesell enter as a copy of any creature card from among those cards. If you don’t, draw a card when Zam Wesell enters.</text>
+</card>
+<card>
+ <name>Acquire Target</name>
+ <set picURL="/Acquire Target.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player draws two cards and loses 2 life.
+Put a bounty counter on up to one target permanent an opponent controls.</text>
+</card>
+<card>
+ <name>Aqualish Bounty Hunter</name>
+ <set picURL="/Aqualish Bounty Hunter.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Creature - Aqualish Hunter </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, put a bounty counter on target permanent.
+Bounty — Whenever a permanent an opponent controls with a bounty counter on it is put into a graveyard, target player discards a card.</text>
+</card>
+<card>
+ <name>The Battle of Utapau</name>
+ <set picURL="/The Battle of Utapau.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Battle - Siege // Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, exile it, then cast it transformed.)
+When this battle enters, return up to one target creature card from your graveyard to your hand.
+--- 
+At the beginning of your end step, you draw a card and lose 1 life.</text>
+</card>
+<card>
+ <name>The Battle of Yavin</name>
+ <set picURL="/The Battle of Yavin.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>XBB</manacost>
+ <type>Battle - Siege // Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, exile it, then cast it transformed.)
+When this battle enters, for each nonland permanent an opponent controls, that player sacrifices it unless they pay X life.
+--- 
+Each opponent sacrifices a legendary permanent. If an opponent can’t, that player sacrifices a creature.</text>
+</card>
+<card>
+ <name>Bib Fortuna</name>
+ <set picURL="/Bib Fortuna.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Legendary Creature - Twi’lek Advisor </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Bib Fortuna enters, search your library for a card, then shuffle and put that card on top. You lose 1 life.
+When Bib Fortuna dies, shuffle.</text>
+</card>
+<card>
+ <name>Black Market Dealer</name>
+ <set picURL="/Black Market Dealer.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Human Rogue </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever this creature or another outlaw you control dies, put a bounty counter on target permanent. (Hunters, Pirates, and Rogues are outlaws.)
+Bounty ― Whenever a permanent an opponent controls with a bounty counter on it is put into a graveyard, target player loses 1 life and draws a card.</text>
+</card>
+<card>
+ <name>Bludgeoning Pain</name>
+ <set picURL="/Bludgeoning Pain.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -3/-3 until end of turn. Tap that creature.</text>
+</card>
+<card>
+ <name>Bounty Spotter</name>
+ <set picURL="/Bounty Spotter.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Zabrak Hunter </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>This creature doesn’t untap during your untap step.
+T: Put a bounty counter on target permanent.
+Bounty — Whenever a permanent an opponent controls with a bounty counter on it is put into a graveyard, untap this creature.</text>
+</card>
+<card>
+ <name>Death Trooper</name>
+ <set picURL="/Death Trooper.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Zombie Trooper </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Each Trooper card in your graveyard has unearth 2.
+Unearth 2 (2: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+</card>
+<card>
+ <name>Dengar</name>
+ <set picURL="/Dengar.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>5B</manacost>
+ <type>Legendary Creature - Human Hunter </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>When Dengar enters, put a bounty counter on target permanent.
+Whenever a permanent an opponent controls with a bounty counter on it is put into a graveyard, return up to one target creature card from your graveyard to your hand unless an opponent pays 3 life.</text>
+</card>
+<card>
+ <name>Doom Blade</name>
+ <set picURL="/Doom Blade.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target nonblack creature.</text>
+</card>
+<card>
+ <name>Droid Commando</name>
+ <set picURL="/Droid Commando.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Artifact Creature - Droid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature dies, target player loses 2 life and you gain 2 life.
+Repair 3 (When this creature dies, put three repair counters on it. At the beginning of your upkeep, remove a repair counter. When the last is removed, you may cast it this turn.)</text>
+</card>
+<card>
+ <name>Force Drain</name>
+ <set picURL="/Force Drain.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Force Drain deals 2 damage to any target. You gain 2 life. Scry 1.</text>
+</card>
+<card>
+ <name>Grand Moff Tarkin</name>
+ <set picURL="/Grand Moff Tarkin.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Legendary Creature - Human Advisor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of each opponent’s upkeep, destroy target creature that player controls unless that player pays 2 life or discards a card.</text>
+</card>
+<card>
+ <name>Hazard Trooper</name>
+ <set picURL="/Hazard Trooper.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Creature - Human Cyborg Trooper </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Each Trooper you control can’t be blocked except by creatures that share a color with it.</text>
+</card>
+<card>
+ <name>Head Hunting</name>
+ <set picURL="/Head Hunting.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put a bounty counter on target permanent.
+Each opponent loses 1 life.
+Draw a card.</text>
+</card>
+<card>
+ <name>IG-88B</name>
+ <set picURL="/IG-88B.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <type>Legendary Artifact Creature - Droid Hunter </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Whenever IG-88B deals combat damage to a player, planeswalker, or battle, defending player loses life equal to the number of bounty counters on permanents they control.
+Repair 3 (When this creature dies, put three repair counters on it. At the beginning of your upkeep, remove a repair counter. When the last is removed, you may cast it this turn.)</text>
+</card>
+<card>
+ <name>Insatiable Rakghoul</name>
+ <set picURL="/Insatiable Rakghoul.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>5B</manacost>
+ <type>Creature - Zombie Mutant </type>
+ <pt>4/6</pt>
+ <tablerow>2</tablerow>
+ <text>This creature enters with an additional +1/+1 counter on it if a nonartifact creature died this turn.</text>
+</card>
+<card>
+ <name>Interrogation</name>
+ <set picURL="/Interrogation.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player discards a card. Then thay player discards another card unless they pay 3 life.</text>
+</card>
+<card>
+ <name>Korriban Tomb Guardian</name>
+ <set picURL="/Korriban Tomb Guardian.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Zombie Warrior </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>This creature enters tapped.
+Hate — 1B: Return this creature from your graveyard to your hand. Activate only if an opponent lost life this turn.</text>
+</card>
+<card>
+ <name>Neophyte Hateflayer</name>
+ <set picURL="/Neophyte Hateflayer.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <type>Creature - Human Sith </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T, Pay 1 life: Each opponent loses 1 life.</text>
+</card>
+<card>
+ <name>Open Season</name>
+ <set picURL="/Open Season.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>When this enchantment enters, put a bounty counter on target permanent.
+Activated abilities of nonland permanents your opponents control with boutny counters on them can’t be activated.
+Bounty — Whenever a permanent an opponent controls with a bounty counter on it is put into a graveyard,that player loses 2 life and you gain 2 life.</text>
+</card>
+<card>
+ <name>Order 66</name>
+ <set picURL="/Order 66.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>7BB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>This spell costs 2 less to cast if an opponent controls a Jedi.
+Put a bounty counter on each creature you don’t control, then destroy those creatures.</text>
+</card>
+<card>
+ <name>Repurpose</name>
+ <set picURL="/Repurpose.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature. Return up to one target creature card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Rule of Two</name>
+ <set picURL="/Rule of Two.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>As long as you control exactly two creatures, those creatures get +2/+0 and have deathtouch and lifelink.</text>
+</card>
+<card>
+ <name>Sith Assassin</name>
+ <set picURL="/Sith Assassin.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Creature - Pureblood Sith </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Hate — When this creature enters, if an opponent lost life this turn, destroy up to one target nonblack creature.</text>
+</card>
+<card>
+ <name>Sith Evoker</name>
+ <set picURL="/Sith Evoker.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Creature - Chiss Sith </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Hate — When this creature enters, if an opponent lost life this turn, return target creature or planeswalker card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Sith Executioner</name>
+ <set picURL="/Sith Executioner.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Human Sith </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Hate — 1B, Discard a card, Sacrifice a Sith: Draw two cards. Activate only if an opponent lost life this turn.</text>
+</card>
+<card>
+ <name>Sith Inquisitor</name>
+ <set picURL="/Sith Inquisitor.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <type>Creature - Human Sith </type>
+ <pt>5/2</pt>
+ <tablerow>2</tablerow>
+ <text>Hate — When this creature enters, if an opponent lost life this turn, target player discards a card at random.</text>
+</card>
+<card>
+ <name>Sith Lord</name>
+ <set picURL="/Sith Lord.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <type>Creature - Human Sith </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+This creature enters with X +1/+1 on it, where X is the amount life your opponents lost this turn. </text>
+</card>
+<card>
+ <name>Sith Thoughtseeker</name>
+ <set picURL="/Sith Thoughtseeker.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <type>Creature - Human Sith </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Hate — 2U, Pay 1 life: Draw a card. Activate only if an opponent lost life this turn and only once each turn.</text>
+</card>
+<card>
+ <name>Swarm the Skies</name>
+ <set picURL="/Swarm the Skies.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create three 1/1 black Starship artifact creature tokens with flying named TIE Fighter.</text>
+</card>
+<card>
+ <name>TIE Bomber</name>
+ <set picURL="/TIE Bomber.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Artifact Creature - Starship </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever this creature deals combat damage to a player, you may sacrifice it. If you do, destroy target creature defending player controls.</text>
+</card>
+<card>
+ <name>TIE Interceptor</name>
+ <set picURL="/TIE Interceptor.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <type>Artifact Creature - Starship </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever this creature attacks, each opponent loses 2 life.</text>
+</card>
+<card>
+ <name>Unruly Sureshot</name>
+ <set picURL="/Unruly Sureshot.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <type>Creature - Human Hunter </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, put a bounty counter on target permanent.
+3R: This creature deals 2 damage to target creature with a bounty counter on it.</text>
+</card>
+<card>
+ <name>A-Wing</name>
+ <set picURL="/A-Wing.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Artifact Creature - Rebel Starship </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, haste
+1: Remove this creature from combat. Until the end of your next turn, it attacks each combat if able.</text>
+</card>
+<card>
+ <name>The Battle of Coruscant</name>
+ <set picURL="/The Battle of Coruscant.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Battle - Siege // Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, exile it, then cast it transformed.)
+When this battle enters, you may discard a card or sacrifice a land. If you do, draw two cards.
+Creatures with capital ship or flying that are attacking this battle can’t be blocked. Excess damage those creatures would deal to this battle is dealt to defending player instead.
+--- 
+Target creature you control deals damage equal to its power to target creature you don’t control.</text>
+</card>
+<card>
+ <name>The Battle of Geonosis</name>
+ <set picURL="/The Battle of Geonosis.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>XXRR</manacost>
+ <type>Battle - Siege // Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, exile it, then cast it transformed.)
+When this battle enters, it deals X damage to each opponent and each creature they control. Creatures you control get +X/+0 until end of turn.
+--- 
+Exile up to two target artifacts and/or artifact cards in a graveyard.</text>
+</card>
+<card>
+ <name>Bounty Sniper</name>
+ <set picURL="/Bounty Sniper.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Gand Hunter </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>T: This creature deals 1 damage to any target.
+Bounty ― Whenever a permanent an opponent controls with a bounty counter on it is put into a graveyard, untap this creature.</text>
+</card>
+<card>
+ <name>Capture</name>
+ <set picURL="/Capture.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If it has a bounty counter on it, sacrifice it at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Crossfire</name>
+ <set picURL="/Crossfire.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Crossfire deals 4 damage to target creature and 2 damage to that creature’s controller.</text>
+</card>
+<card>
+ <name>Dark Apprenticeship</name>
+ <set picURL="/Dark Apprenticeship.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Hate — At the beginning of your end step, if an opponent lost life this turn, you may pay 1. If you do, this enchantment deals 2 damage to each opponent.</text>
+</card>
+<card>
+ <name>Flames of Remembrance</name>
+ <set picURL="/Flames of Remembrance.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, you may exile a card from your graveyard. If you do, put a lore counter on this enchantment.
+Sacrifice this enchantment: Exile the top X cards of your library, where X is the number of lore counters on it. Until end of turn, you may play cards exiled this way.</text>
+</card>
+<card>
+ <name>Force Lightning</name>
+ <set picURL="/Force Lightning.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>XRR</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Force Lightning deals X damage to any target. Scry X.</text>
+</card>
+<card>
+ <name>Force Scream</name>
+ <set picURL="/Force Scream.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Force Scream deals 3 damage to each non-Starship creature and each player. Scry 1.</text>
+</card>
+<card>
+ <name>Force Spark</name>
+ <set picURL="/Force Spark.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Force Spark deals 2 damage divided as you choose among one or two targets. Scry 1.</text>
+</card>
+<card>
+ <name>Gamorrean Prison Guard</name>
+ <set picURL="/Gamorrean Prison Guard.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Creature - Gamorrean Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature an opponent controls enters, if this creature is untapped, it fights that creature.</text>
+</card>
+<card>
+ <name>Geonosian Warrior</name>
+ <set picURL="/Geonosian Warrior.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Creature - Insect Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+2R: Monstrosity 2. (If this creature isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous.)
+When this creature becomes monstrous, it gains menace until end of turn.</text>
+</card>
+<card>
+ <name>Gundark</name>
+ <set picURL="/Gundark.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Creature - Beast </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+3RR: Monstrosity 3. (If this creature isn’t monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When this creature becomes monstrous, it gets +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Han Solo</name>
+ <set picURL="/Han Solo.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Legendary Creature - Human Rogue </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Han Solo has first strike as long as he’s attacking.
+At the beginning of combat on your turn, target Starship you control gets +1/+1 and gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Imperial Gunner</name>
+ <set picURL="/Imperial Gunner.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>1, T: This creature deals 1 damage to target player or Starship.</text>
+</card>
+<card>
+ <name>Impulsive Wager</name>
+ <set picURL="/Impulsive Wager.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, discard a card at random.
+If the discarded card was a nonland card, draw two cards. Otherwise, put a bounty counter on target creature an opponent controls.</text>
+</card>
+<card>
+ <name>Jango Fett</name>
+ <set picURL="/Jango Fett.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <type>Legendary Creature - Human Hunter </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace, haste
+Whenever Jango Fett attacks, put a bounty counter on target permanent an opponent controls. Then Jango Fett gets +X/+0 until end of turn, where X is the number of permanents defending player controls with bounty counters on them.</text>
+</card>
+<card>
+ <name>JarKai Battle Stance</name>
+ <set picURL="/JarKai Battle Stance.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gains double strike until end of turn. If that creature is a Jedi or Sith, it also gains trample until end of turn.</text>
+</card>
+<card>
+ <name>Lightning Bolt</name>
+ <set picURL="/Lightning Bolt.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Lightning Bolt deals 3 damage to any target.</text>
+</card>
+<card>
+ <name>Novice Bounty Hunter</name>
+ <set picURL="/Novice Bounty Hunter.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Human Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Bounty — Whenever a permanent an opponent controls with a bounty counter on it is put into a graveyard, this creature deals 2 damage to target player, planeswalker, or battle.</text>
+</card>
+<card>
+ <name>Raging Reek</name>
+ <set picURL="/Raging Reek.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <type>Creature - Beast </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>This creature attacks each turn if able.
+5R: Monstrosity 3. (If this creature isn’t monstrous, put three +1/+1 counters on it and it becomes monstrous.)</text>
+</card>
+<card>
+ <name>Rallying Fire</name>
+ <set picURL="/Rallying Fire.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Rallying Fire deals damage to any target equal to the number of creatures you control.</text>
+</card>
+<card>
+ <name>Revenge</name>
+ <set picURL="/Revenge.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control gets +4/+0 until end of turn if you lost life this turn. Then it fights target creature you don’t control.</text>
+</card>
+<card>
+ <name>Rocket Trooper</name>
+ <set picURL="/Rocket Trooper.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Creature - Human Trooper </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever this creature or another Trooper you control enters, this creature deals 1 damage to any target.</text>
+</card>
+<card>
+ <name>Sabacc</name>
+ <set picURL="/Sabacc.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Discard your hand, then draw two cards.</text>
+</card>
+<card>
+ <name>Shock Trooper</name>
+ <set picURL="/Shock Trooper.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Creature - Human Trooper </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Troopers you control get +2/+0.</text>
+</card>
+<card>
+ <name>Shoot First</name>
+ <set picURL="/Shoot First.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control gains first strike until end of turn. It deals damage equal to its power to target creature or battle.</text>
+</card>
+<card>
+ <name>Sith Acolyte</name>
+ <set picURL="/Sith Acolyte.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <type>Creature - Human Sith </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you attack with one or more other Sith, this creature deals 1 damage to target opponent.
+Hate — 1R: Put a +1/+1 counter on this creature. Activate only if an opponent lost life this turn.</text>
+</card>
+<card>
+ <name>Sith Marauder</name>
+ <set picURL="/Sith Marauder.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>3RR</manacost>
+ <type>Creature - Human Sith </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Hate — When this creature enters, if an opponent lost life this turn, this creature deals 3 damage to any target.</text>
+</card>
+<card>
+ <name>Sith Ravager</name>
+ <set picURL="/Sith Ravager.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Human Sith </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Hate — Whenever an opponent loses life, this creature gets +1/+0 and gains haste and trample until end of turn.</text>
+</card>
+<card>
+ <name>Smash to Smithereens</name>
+ <set picURL="/Smash to Smithereens.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact. Smash to Smithereens deals 3 damage to that artifact’s controller.</text>
+</card>
+<card>
+ <name>Speeder Trooper</name>
+ <set picURL="/Speeder Trooper.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <type>Creature - Human Trooper </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Troopers you control have haste.</text>
+</card>
+<card>
+ <name>Syndicate Enforcer</name>
+ <set picURL="/Syndicate Enforcer.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <type>Creature - Gand Hunter </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, put a bounty counter on target permanent.
+Whenever a bounty counter is put on a creature an opponent controls, that creature can’t block this turn.</text>
+</card>
+<card>
+ <name>Terentatek Cub</name>
+ <set picURL="/Terentatek Cub.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Beast </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>As long as an opponent controls a Jedi or Sith, this creature gets +1/+1 and attacks each combat if able.</text>
+</card>
+<card>
+ <name>V-Wing</name>
+ <set picURL="/V-Wing.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Artifact Creature - Starship </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, haste
+Whenever you cast a noncreature spell, this creature gets +1/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Weequay Beastmaster</name>
+ <set picURL="/Weequay Beastmaster.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <type>Creature - Weequay Shaman </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Monstrosity abilities you activate cost 1 less to activate.
+Whenever a creature you control becomes monstrous, put an additional +1/+1 counter on that creature.</text>
+</card>
+<card>
+ <name>Aspect of Rancor</name>
+ <set picURL="/Aspect of Rancor.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +2/+0 and has trample.
+When this Aura is put into a graveyard from the battlefield, return it to its owner’s hand.</text>
+</card>
+<card>
+ <name>AT-ST</name>
+ <set picURL="/AT-ST.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <type>Artifact Creature - Trooper Construct </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Troopers you control get +3/+3.</text>
+</card>
+<card>
+ <name>Bathe in Bacta</name>
+ <set picURL="/Bathe in Bacta.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put a +1/+1 counter on up to one target creature. You gain life equal to that creature’s toughness. If you lost life from a source other than combat damage this turn, draw a card.</text>
+</card>
+<card>
+ <name>The Battle of Endor</name>
+ <set picURL="/The Battle of Endor.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>XX2GG</manacost>
+ <type>Battle - Siege // Artifact</type>
+ <tablerow>1</tablerow>
+ <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, exile it, then cast it transformed.)
+When this battle enters, create X 1/1 green Ewok creature tokens. Put X +1/+1 counters on each creature you control. They gain trample and haste until end of turn.
+--- 
+1G, T: Put two +1/+1 counters on target creature you control. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>The Battle of Kashyyyk</name>
+ <set picURL="/The Battle of Kashyyyk.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>1G // G</manacost>
+ <type>Battle - Siege // Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it’s defeated, exile it, then cast it transformed.)
+When this battle enters, draw a card, Then you may put a land card from your hand onto the battlefield.
+--- 
+Put a +1/+1 counter on each creature you control.</text>
+</card>
+<card>
+ <name>Bossk</name>
+ <set picURL="/Bossk.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <type>Legendary Creature - Trandoshan Hunter </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Whenever a land you control enters, put a bounty counter on up to one target creature.
+Bounty ― Whenever a permanent an opponent controls with a bounty counter on it is put into a graveyard, search your library for a land card, reveal it, put it into your hand, then shuffle.</text>
+</card>
+<card>
+ <name>Bounty Collector</name>
+ <set picURL="/Bounty Collector.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Quarren Hunter </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>T: Untap target land.
+Bounty ― Whenever a permanent an opponent controls with a bounty counter on it is put into a graveyard, untap this creature.</text>
+</card>
+<card>
+ <name>Corellian Corvette</name>
+ <set picURL="/Corellian Corvette.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Artifact Creature - Starship </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+You may have this creature assign its combat damage as though it weren’t blocked.</text>
+</card>
+<card>
+ <name>Ewok Ambush</name>
+ <set picURL="/Ewok Ambush.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Create two 1/1 green Ewok creature tokens. They gain haste until end of turn.</text>
+</card>
+<card>
+ <name>Ewok Firedancers</name>
+ <set picURL="/Ewok Firedancers.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature - Ewok Shaman </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever this creature attacks with two or more creatues, if it isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous.</text>
+</card>
+<card>
+ <name>Exogorth</name>
+ <set picURL="/Exogorth.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>5GG</manacost>
+ <type>Creature - Slug </type>
+ <pt>8/7</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Trample
+When this creature enters, destroy up to one target Starship creature. If you do, put a +1/+1 counter on this creature and it becomes monstrous.</text>
+</card>
+<card>
+ <name>Force Pull</name>
+ <set picURL="/Force Pull.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact or enchantment. Scry 3.</text>
+</card>
+<card>
+ <name>Hungry Dragonsnake</name>
+ <set picURL="/Hungry Dragonsnake.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <type>Creature - Snake Beast </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever a creature an opponent controls enters, put a +1/+1 counter on this creature.</text>
+</card>
+<card>
+ <name>Hutt Crime Lord</name>
+ <set picURL="/Hutt Crime Lord.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <type>Creature - Hutt Rogue </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>This creature enters with a bounty counter on it.
+Whenever this creature attacks, put a stun counter on it and a bounty counter on target permanent.</text>
+</card>
+<card>
+ <name>Ithorian Initiate</name>
+ <set picURL="/Ithorian Initiate.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Ithorian Jedi </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, you may search library for a basic land card, reveal it, put it into your hand, then shuffle.
+1G: Meditate. (Return this creature to its owner’s hand. The first Jedi spell you cast on your next turn costs 2 less to cast. Meditate only as a sorcery.)</text>
+</card>
+<card>
+ <name>Jedi Battle Sage</name>
+ <set picURL="/Jedi Battle Sage.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Creature - Sullustan Jedi </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When Jedi Battle Sage enters, target creature gets +2/+2 until end of turn.
+1G: Meditate. (Return this creature to its owner’s hand. The first Jedi spell you cast on your next turn costs 2 less to cast. Meditate only as a sorcery.)</text>
+</card>
+<card>
+ <name>Ki-Adi-Mundi</name>
+ <set picURL="/Ki-Adi-Mundi.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Legendary Creature - Cerean Jedi </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Ki-Adi-Mundi enters, put a +1/+1 counter on each other creature you control.
+1G: Meditate. (Return this creature to its owner’s hand. The first Jedi spell you cast on your next turn costs 2 less to cast. Meditate only as a sorcery.)</text>
+</card>
+<card>
+ <name>Legacy of the Beloved</name>
+ <set picURL="/Legacy of the Beloved.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a creature.
+Search your library for up to two creature cards each with mana value less than the sacrificed creature’s mana value, put them on to the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Mantellian Savrip</name>
+ <set picURL="/Mantellian Savrip.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <type>Creature - Mantellian Berserker </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>5GG: Monstrosity 2. (If this creature isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous.)
+Creatures with power less than this creature’s power can’t block it.</text>
+</card>
+<card>
+ <name>Massif Swarm</name>
+ <set picURL="/Massif Swarm.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Crocodile Beast </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>1G: Monstrosity 1. (If this creature isn’t monstrous, put a +1/+1 counter on it and it becomes monstrous.)</text>
+</card>
+<card>
+ <name>Millenium Falcon</name>
+ <set picURL="/Millenium Falcon.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <type>Legendary Artifact Creature - Starship </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+Flying
+When Millenium Falcon enters, creatures you control gain hexproof until end of turn.</text>
+</card>
+<card>
+ <name>Nerf Herder</name>
+ <set picURL="/Nerf Herder.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Human </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more +1/+1 counters are placed on a creature you control, you may pay 2. If you do, draw a card.
+Monstrous creatures you control have trample.</text>
+</card>
+<card>
+ <name>Nexu Stalker</name>
+ <set picURL="/Nexu Stalker.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Beast </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Whenever this creature deals combat damage to a player, if it isn’t monstrous, it becomes monstrous.
+XXG: This creature gets +X/+X until end of turn. Activate only if this creature is monstrous.</text>
+</card>
+<card>
+ <name>Nightspider</name>
+ <set picURL="/Nightspider.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <type>Creature - Spider </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+4G: Monstrosity 2. (If this creature isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous.)</text>
+</card>
+<card>
+ <name>No Contest</name>
+ <set picURL="/No Contest.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control deals damage equal to its power to target creature you don’t control. Excess damage is dealt to that creature’s controller.</text>
+</card>
+<card>
+ <name>Regression</name>
+ <set picURL="/Regression.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose target artifact or enchantment. Its owner shuffles it into their library.</text>
+</card>
+<card>
+ <name>Scout the Perimeter</name>
+ <set picURL="/Scout the Perimeter.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Put a bounty counter on target permanent.</text>
+</card>
+<card>
+ <name>Scout Trooper</name>
+ <set picURL="/Scout Trooper.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Human Trooper </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Troopers you control get +1/+1.</text>
+</card>
+<card>
+ <name>Shaak Herd</name>
+ <set picURL="/Shaak Herd.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <type>Creature - Beast </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>1G: Monstrosity 1. (If this creature isn’t monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+When this creature dies, you may return another target creature card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Show of Dominance</name>
+ <set picURL="/Show of Dominance.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put four +1/+1 counters on target creature you control. That creature gains trample until end of turn.</text>
+</card>
+<card>
+ <name>Trooper Commando</name>
+ <set picURL="/Trooper Commando.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <type>Creature - Human Trooper </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Troopers you control have trample.</text>
+</card>
+<card>
+ <name>Twilek Seductress</name>
+ <set picURL="/Twilek Seductress.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <type>Creature - Twi’lek Rogue </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>This creature must be blocked if able.
+Whenever this creature becomes blocked by a creature, put a bounty counter on that creature.</text>
+</card>
+<card>
+ <name>Wookie Bounty Hunter</name>
+ <set picURL="/Wookie Bounty Hunter.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <type>Creature - Wookiee Hunter </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Bounty — Whenever a permanent an opponent controls with a bounty counter on it is put into a graveyard, you gain 3 life.</text>
+</card>
+<card>
+ <name>AAT-1</name>
+ <set picURL="/AAT-1.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>1WUB</manacost>
+ <type>Artifact Creature - Droid Construct </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a repair counter is removed from a card in your graveyard, target player loses 1 life and you gain 1 life.
+Repair 4 (When this creature dies, put four repair counters on it. At the beginning of your upkeep, remove a repair counter. When the last is removed, you may cast it this turn.)</text>
+</card>
+<card>
+ <name>Acklay of the Arena</name>
+ <set picURL="/Acklay of the Arena.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>1RGW</manacost>
+ <type>Creature - Insect Beast </type>
+ <pt>5/4</pt>
+ <tablerow>2</tablerow>
+ <text>2RGW: Monstrosity 1. (If this creature isn’t monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+Whenever a creature you control becomes monstrous, it fights target creature an opponent controls.</text>
+</card>
+<card>
+ <name>Adroit Hateflayer</name>
+ <set picURL="/Adroit Hateflayer.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>UBR</manacost>
+ <type>Creature - Nautolan Sith </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Whenever this creature attacks, each player loses 2 life.</text>
+</card>
+<card>
+ <name>Amidala Queen of Naboo</name>
+ <set picURL="/Amidala Queen of Naboo.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>1GW</manacost>
+ <type>Legendary Creature - Human Noble </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Amidala or another creature you control enters, you gain 1 life.
+At the beginning of your end step, if you gained 5 or more life this turn, destroy up to one target artifact or enchantment.</text>
+</card>
+<card>
+ <name>Anakin Skywalker</name>
+ <set picURL="/Anakin Skywalker.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>3UBR</manacost>
+ <type>Legendary Creature - Human Sith  // Legendary Creature - Human Sith </type>
+ <pt>4/4 // 4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another creature dies, put a +1/+1 counter on Anakin Skywalker. 
+Sacrifice another creature: Target creature gets -1/-1 until end of turn. Activate only as a sorcery.
+If Anakin Skywalker would die, regenerate and transform him instead.
+--- 
+Menace, lifelink
+Whenever Darth Vader attacks, creatures defending player controls get -1/-1 until end of turn for each +1/+1 counter on Darth Vader.</text>
+</card>
+<card>
+ <name>Asajj Ventress</name>
+ <set picURL="/Asajj Ventress.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>1UBR</manacost>
+ <type>Legendary Creature - Dathomirian Sith </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+Whenever a creature blocks Asajj Ventress, she gets +1/+1 until end of turn.
+Hate — Whenever Asajj Ventress attacks, if an opponent lost life this turn, up to one target creature blocks this turn if able.</text>
+</card>
+<card>
+ <name>Aurra Sing Bane of Jedi</name>
+ <set picURL="/Aurra Sing Bane of Jedi.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>2BR</manacost>
+ <type>Legendary Planeswalker - Aurra </type>
+ <tablerow>1</tablerow>
+ <text>+1 Put a bounty counter on up to one target creature, battle, or planeswalker. Aurra Sing deals 2 damage to that permanent and 1 damage to you.
+-4 Target player gets an emblem with “Whenever a nontoken creature you control leaves the battlefield, discard a card or lose 3 life.”
+-6 Each player discards their hand. Exile all creatures. Each player’s life total becomes 1.</text>
+</card>
+<card>
+ <name>Blind Worship</name>
+ <set picURL="/Blind Worship.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>2RGW</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Whenever enchanted creature attacks, each other creature you control gets +X/+X until end of turn, where X is enchanted creature’s power.</text>
+</card>
+<card>
+ <name>Boba Fett</name>
+ <set picURL="/Boba Fett.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>2BRG</manacost>
+ <type>Legendary Creature - Human Hunter </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Menace, deathtouch, haste
+When Boba Fett enters, put a bounty counter on target permanent.
+Bounty ― Whenever a permanent an opponent controls with a bounty counter on it is put into a graveyard, you may draw two cards. If you do, discard two cards.</text>
+</card>
+<card>
+ <name>Bull Rancor</name>
+ <set picURL="/Bull Rancor.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>3RGW</manacost>
+ <type>Creature - Beast </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+1RGW: Monstrosity 1. (If this creature isn’t monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+As long as this creature is monstrous, creatures you control have menace.</text>
+</card>
+<card>
+ <name>C-3PO and R2-D2</name>
+ <set picURL="/C-3PO and R2-D2.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>2WU</manacost>
+ <type>Legendary Artifact Creature - Droid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When C-3PO and R2-D2 leaves the battlefield, you gain 4 life and draw a card.
+Repair 2 (When this creature dies, put two repair counters on it. At the beginning of your upkeep, remove a repair counter. When the last is removed, you may cast it this turn.)</text>
+</card>
+<card>
+ <name>Carbonite Chamber</name>
+ <set picURL="/Carbonite Chamber.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>1WU</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+When this Aura enters, remove a bounty counter from up to one target permanent.
+You control enchanted creature. It can’t attack or block, and its activated abilities can’t be activated.</text>
+</card>
+<card>
+ <name>Chewbacca</name>
+ <set picURL="/Chewbacca.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>2RGW</manacost>
+ <type>Legendary Creature - Wookiee Warrior </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever Chewbacca attacks alone, if he isn’t monstrous, put a +1/+1 counter on him and he becomes monstrous.
+Whenever a creature you control becomes monstrous, that creature gets +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Chief Chirpa</name>
+ <set picURL="/Chief Chirpa.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>RGW</manacost>
+ <type>Legendary Creature - Ewok Warrior </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>2RGW: Monstrosity 2. (If this creature isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous.)
+Whenever a green creature you control dies, put a +1/+1 counter on another target Ewok you control.
+Whenever one or more +1/+1 counters are put on Chief Chirpa, create that many 1/1 green Ewok creature tokens.</text>
+</card>
+<card>
+ <name>Commander Cody</name>
+ <set picURL="/Commander Cody.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>WUBRG</manacost>
+ <type>Legendary Creature - Human Trooper </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more nontoken Troopers you control attack, create that many 1/1 white Trooper creature tokens that are tapped and attacking.</text>
+</card>
+<card>
+ <name>Cruelty of the Sith</name>
+ <set picURL="/Cruelty of the Sith.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>UBR</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one — 
+- Counter target noncreature spell.
+- Target player sacrifices a creature.
+- Cruelty of the Sith deals 3 damage to target player or battle. That player or that battle’s protector discards a card.</text>
+</card>
+<card>
+ <name>Cunning Abduction</name>
+ <set picURL="/Cunning Abduction.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>1UB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player reveals their hand. You choose a nonland card from it and exile that card. You may cast that card as long as it remains exiled, and mana of any type can be spent to cast that spell.</text>
+</card>
+<card>
+ <name>Dagobah Maw Slug</name>
+ <set picURL="/Dagobah Maw Slug.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>RGW</manacost>
+ <type>Creature - Slug </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>2RGW: Monstrosity 2. (If this creature isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous.)
+Whenever a creature you control becomes monstrous, it gains hexproof until end of turn.</text>
+</card>
+<card>
+ <name>Dark Decision</name>
+ <set picURL="/Dark Decision.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BR</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, pay 1 life.
+Look at the top 10 cards of your library, exile a card from among them, then shuffle. Until the end of your next turn, you may play that card.</text>
+</card>
+<card>
+ <name>Darth Maul</name>
+ <set picURL="/Darth Maul.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>1BR</manacost>
+ <type>Legendary Creature - Zabrak Sith </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike, haste
+Hate — Whenever Darth Maul attacks, if an opponent lost life this turn, up to one target creature can’t block Darth Maul this turn.</text>
+</card>
+<card>
+ <name>Darth Sidious Sith Lord</name>
+ <set picURL="/Darth Sidious Sith Lord.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>4UBBR</manacost>
+ <type>Legendary Planeswalker - Sidious </type>
+ <tablerow>1</tablerow>
+ <text>+3 Destroy target noncreature permanent.
+-2 Gain control of target creature.
+-9 Darth Sidious deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents.</text>
+</card>
+<card>
+ <name>Darth Tyranus Count of Serenno</name>
+ <set picURL="/Darth Tyranus Count of Serenno.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>1UB</manacost>
+ <type>Legendary Planeswalker - Dooku </type>
+ <tablerow>1</tablerow>
+ <text>+1 Until your next turn, attacking creatures your opponents control get -1/-0.
+0 Draw a card. Each player loses 1 life.
+-4 Sacrifice an artifact. If you do, search your library for an artifact card, put it onto the battlefield, then shuffle.</text>
+</card>
+<card>
+ <name>Echo Base Commando</name>
+ <set picURL="/Echo Base Commando.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>1GW</manacost>
+ <type>Creature - Human Rebel </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Protection from Beasts
+Activated abilities of creatures your opponents control cost 2 more to activate.</text>
+</card>
+<card>
+ <name>Ferocity of the Underworld</name>
+ <set picURL="/Ferocity of the Underworld.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BRG</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one — 
+- Destroy target nonland permanent.
+- Copy target instant or sorcery spell. You may choose new targets for the copy.
+- Return target card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Force Awakening</name>
+ <set picURL="/Force Awakening.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>2GW</manacost>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature has lifelink.
+When this Aura enters, distribute two +1/+1 counters among one or two target creatures.
+1U: Return this Aura and enchanted creature to their owners’ hands. The first Jedi or Aura spell you cast during your next turn costs 2 less to cast.</text>
+</card>
+<card>
+ <name>Force Choke</name>
+ <set picURL="/Force Choke.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>2UB</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell. Its controller may pay life equal to its mana value to return it to its owner’s hand. Scry 2.</text>
+</card>
+<card>
+ <name>Force Deflection</name>
+ <set picURL="/Force Deflection.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>UB</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target noncreature spell. Its controller loses 2 life.</text>
+</card>
+<card>
+ <name>Force Mastery</name>
+ <set picURL="/Force Mastery.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>2GWU</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, reveal the top card of your library and put it into your hand. You gain life equal to its mana value.</text>
+</card>
+<card>
+ <name>General Grievous</name>
+ <set picURL="/General Grievous.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>WUB</manacost>
+ <type>Legendary Artifact Creature - Kaleesh </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+Sacrifice an artifact or creature: Put a +1/+1 counter on General Grievous.</text>
+</card>
+<card>
+ <name>Greater Krayt Dragon</name>
+ <set picURL="/Greater Krayt Dragon.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>3RGW</manacost>
+ <type>Creature - Dragon </type>
+ <pt>7/7</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+XXRGW: Monstrosity X. (If this creature isn’t monstrous, put X +1/+1 counters on it and it becomes monstrous.)
+When this creature becomes monstrous, draw a card for each +1/+1 counter on creatures you control.</text>
+</card>
+<card>
+ <name>Greedo</name>
+ <set picURL="/Greedo.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BRG</manacost>
+ <type>Legendary Creature - Rodian Hunter </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Creatures blocking or blocked by Greedo have first strike.
+When Greedo dies, you may search your library for an outlaw creature card, reveal it, put it into your hand, then shuffle. (Hunters, Pirates, and Rogues are outlaws.)</text>
+</card>
+<card>
+ <name>Hondo Ohnaka</name>
+ <set picURL="/Hondo Ohnaka.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>2BR</manacost>
+ <type>Legendary Creature - Weequay Pirate </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>1, T: Put a bounty counter on target permanent.
+Bounty — Whenever a permanent an opponent controls with a bouny counter on it is put into a graveyard, exile the top card of your library. You may play that card until the end of your next turn.</text>
+</card>
+<card>
+ <name>Hot Pursuit</name>
+ <set picURL="/Hot Pursuit.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BRG</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Bounty — When this enchantment enters and whenever a permanent an opponent controls with a bounty counter on it is put into a graveyard, put a bounty counter on target permanent.
+Creatures your opponents control get -1/-1 for each bounty counter on them.</text>
+</card>
+<card>
+ <name>Hunt to Extinction</name>
+ <set picURL="/Hunt to Extinction.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>XXBRG</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put a bounty counter on each of up to two target permanents.
+Hunt to Extinction deals X damage to target opponent and each creature they control. Hunt to Extinction deals an additional X damage to each of those creatures with a bounty counter on it.</text>
+</card>
+<card>
+ <name>Images of the Past</name>
+ <set picURL="/Images of the Past.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GW</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Return up to two target creature cards from your graveyard to the battlefield, then exile those creatures.</text>
+</card>
+<card>
+ <name>Iron Fist of the Empire</name>
+ <set picURL="/Iron Fist of the Empire.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>UBR</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Hate — At the beginning of each end step, if an opponent lost life this turn, you may pay 2. If you do, you gain 2 life and create a 2/2 red Soldier creature token with first strike named Royal Guard.</text>
+</card>
+<card>
+ <name>Jabba the Hutt</name>
+ <set picURL="/Jabba the Hutt.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>3BRG</manacost>
+ <type>Legendary Creature - Hutt Rogue </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+T: Put a bounty counter on target permanent.
+R, T: Create a tapped 4/4 red Hunter creature token. It fights target creature an opponent controls with a bounty counter on it. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Jedi Knight</name>
+ <set picURL="/Jedi Knight.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GWU</manacost>
+ <type>Creature - Human Jedi </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature leaves the battlefield, return up to one target nonland permanent you don’t control to its owner’s hand.
+1U: Meditate. (Return this creature to its owner’s hand. The first Jedi spell you cast on your next turn costs 2 less to cast. Meditate only as a sorcery.)</text>
+</card>
+<card>
+ <name>Jedi Sentinel</name>
+ <set picURL="/Jedi Sentinel.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GWU</manacost>
+ <type>Creature - Twi’lek Jedi </type>
+ <pt>2/4</pt>
+ <tablerow>2</tablerow>
+ <text>Flash
+When this creature enters, you may return another target creature you control and target creature you don’t control to their owners’ hands.</text>
+</card>
+<card>
+ <name>Kit Fisto</name>
+ <set picURL="/Kit Fisto.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>1GWU</manacost>
+ <type>Legendary Creature - Nautolan Jedi </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Kit Fisto enters, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+1U: Meditate. (Return this creature to its owner’s hand. The first Jedi spell you cast on your next turn costs 2 less to cast. Meditate only as a sorcery.)</text>
+</card>
+<card>
+ <name>Luke Skywalker</name>
+ <set picURL="/Luke Skywalker.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GWU</manacost>
+ <type>Legendary Creature - Human Jedi </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Whenever Luke Skywalker or another Jedi you control leaves the battlefield without dying, put two +1/+1 counters on target Jedi you control.
+1U: Meditate. (Return this creature to its owner’s hand. The first Jedi spell you cast on your next turn costs 2 less to cast. Meditate only as a sorcery.)</text>
+</card>
+<card>
+ <name>Maintenance Droid</name>
+ <set picURL="/Maintenance Droid.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>WU</manacost>
+ <type>Artifact Creature - Droid </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>T: Choose a card in your graveyard with a repair counter on it. Remove a repair counter from it or put another repair counter on it.
+Repair 4 (When this creature dies, put four repair counters on it. At the beginning of your upkeep, remove a repair counter. When the last is removed, you may cast it this turn.)</text>
+</card>
+<card>
+ <name>March of the Droids</name>
+ <set picURL="/March of the Droids.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>2WUB</manacost>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return each card with a repair counter on it from your graveyard to the battlefield. Create a 1/1 colorless Droid artifact creature token for each Droid you control.</text>
+</card>
+<card>
+ <name>Might of the Wild</name>
+ <set picURL="/Might of the Wild.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>RGW</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one — 
+- Creatures with power 3 less can’t block this turn.
+- Destroy target artifact or enchantment.
+- Creatures you control gain indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Nute Gunray</name>
+ <set picURL="/Nute Gunray.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>WUB</manacost>
+ <type>Legendary Creature - Neimoidian Advisor </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an artifact you control enters, you may pay 1. If you do, draw a card. Do this only once each turn.
+1, T, Sacrifice a nontoken artifact: Create a 1/1 colorless Droid artifact creature token.</text>
+</card>
+<card>
+ <name>Obi-Wan Kenobi</name>
+ <set picURL="/Obi-Wan Kenobi.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>3WU</manacost>
+ <type>Legendary Planeswalker - Obi-Wan </type>
+ <tablerow>1</tablerow>
+ <text>+1 Until your next turn, up to one target creature you control gains vigilance and protection from the color of your choice.
+-1 Tap up to three target creatures.
+-7 You get an emblem with “Creatures you control get +1/+1 and have vigilance, first strike, and lifelink.”</text>
+</card>
+<card>
+ <name>Outer Rim Slaver</name>
+ <set picURL="/Outer Rim Slaver.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BRG</manacost>
+ <type>Creature - Trandoshan Rogue </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, put a bounty counter on target permanent. If that permanent is a creature, up to one target creature you control fights that creature.</text>
+</card>
+<card>
+ <name>Padme Amidala</name>
+ <set picURL="/Padme Amidala.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>WU</manacost>
+ <type>Legendary Creature - Human Advisor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+At the beginning of your upkeep, you may return another creature you control to its owners hand.</text>
+</card>
+<card>
+ <name>Precipice of Mortis</name>
+ <set picURL="/Precipice of Mortis.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GWU</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>If a Jedi entering or leaving the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+</card>
+<card>
+ <name>Primal Instinct</name>
+ <set picURL="/Primal Instinct.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>RG</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put a +1/+1 counter on target creature, then double the number of +1/+1 counters on that creature.</text>
+</card>
+<card>
+ <name>Qui-Gon Jinn</name>
+ <set picURL="/Qui-Gon Jinn.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>2GWU</manacost>
+ <type>Legendary Creature - Human Jedi </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Whenever you attack, if a Jedi you control entered this turn, untap up to one target attacking creature. It gains lifelink until end of turn.
+1G: Meditate. (Return this creature to its owner’s hand. The first Jedi spell you cast on your next turn costs 2 less to cast. Meditate only as a sorcery.)</text>
+</card>
+<card>
+ <name>Rumor Monger</name>
+ <set picURL="/Rumor Monger.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>1BRG</manacost>
+ <type>Creature - Arcona Hunter </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, put a bounty counter on target permanent.
+Bounty — Whenever a permanent an opponent controls with a bounty counter on it is put into a graveyard, put a bounty counter on each of up to two target permanents.</text>
+</card>
+<card>
+ <name>Salvage Squad</name>
+ <set picURL="/Salvage Squad.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>WUB</manacost>
+ <type>Creature - Jawa Artificer </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, you may sacrifice an artifact. If you do, you gain 2 life and draw two cards.</text>
+</card>
+<card>
+ <name>Sarlacc Pit</name>
+ <set picURL="/Sarlacc Pit.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>RG</manacost>
+ <type>Creature - Beast </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Defender, hexproof
+T: Add C.
+2RG, Sacrifice a land: Monstrosity 1. (If this creature isn’t monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+When this creature becomes monstrous, it loses hexproof and gains first strike and deathtouch.</text>
+</card>
+<card>
+ <name>Senator Bail Organa</name>
+ <set picURL="/Senator Bail Organa.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GW</manacost>
+ <type>Legendary Creature - Human Advisor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>As long as you control four or more creatures, creatures you control get +1/+1.</text>
+</card>
+<card>
+ <name>Senator Lott Dod</name>
+ <set picURL="/Senator Lott Dod.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>UB</manacost>
+ <type>Legendary Creature - Neimoidian Advisor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever one or more artifacts you control enter, each opponent loses 1 life.
+Spells your opponents cast that target you or a permanent you control cost 1 more to cast.</text>
+</card>
+<card>
+ <name>Senator Passel Argente</name>
+ <set picURL="/Senator Passel Argente.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BR</manacost>
+ <type>Legendary Creature - Koorivar Advisor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature dies, each opponent loses 1 life.</text>
+</card>
+<card>
+ <name>Sith Magic</name>
+ <set picURL="/Sith Magic.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>UBR</manacost>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Hate — At the beginning of each combat, if an opponent lost life this turn, return up to one target creature card from a graveyard to the battlefield under your control with a finality counter on it. It gains lifelink and haste. Sacrifice it at the beginning of the next end step.</text>
+</card>
+<card>
+ <name>Sith Mindseer</name>
+ <set picURL="/Sith Mindseer.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>1UBR</manacost>
+ <type>Creature - Human Sith </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Hate — When this creature enters, if an opponent lost life this turn, gain control of target creature for as long you control this creauture.</text>
+</card>
+<card>
+ <name>Slave I</name>
+ <set picURL="/Slave I.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>BRG</manacost>
+ <type>Legendary Artifact Creature - Starship </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>First strike, flying
+Whenever a creature dealt damage by Slave I this turn dies, put two +1/+1 counters on Slave I.</text>
+</card>
+<card>
+ <name>Star Destroyer</name>
+ <set picURL="/Star Destroyer.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>3UBR</manacost>
+ <type>Artifact Creature - Starship </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Capital ship (This creature can only block or be blocked by creatures with capital ship or flying.)
+3U: Tap target artifact creature.
+3B: Create a 1/1 black Starship artifact creature token with flying named TIE Fighter.
+3R: This creature deals 2 damage to any non-Starship target.</text>
+</card>
+<card>
+ <name>Tank Droid</name>
+ <set picURL="/Tank Droid.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>4WUB</manacost>
+ <type>Artifact Creature - Droid </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever this creature enters, attacks, blocks, or dies, create a 1/1 colorless Droid artifact creature token.
+Repair 3 (When this creature dies, put three repair counters on it. At the beginning of your upkeep, remove a repair counter. When the last is removed, you may cast it this turn.)</text>
+</card>
+<card>
+ <name>Tarfful Wookiee General</name>
+ <set picURL="/Tarfful Wookiee General.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>RG</manacost>
+ <type>Legendary Creature - Wookiee Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you put one or more counters on one or more creatures, you may discard a card. If you do, draw a card.
+2RG: Monstrosity 2. (If this creature isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous.)</text>
+</card>
+<card>
+ <name>Trade Federation Battleship</name>
+ <set picURL="/Trade Federation Battleship.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>3WUB</manacost>
+ <type>Artifact Creature - Starship </type>
+ <pt>0/6</pt>
+ <tablerow>2</tablerow>
+ <text>Capital ship (This creature can only block or be blocked by creatures with capital ship or flying.)
+Other Droids you control get +1/+1.
+3, T: Create two 1/1 colorless Droid artifact creature tokens.</text>
+</card>
+<card>
+ <name>Unity of the Droids</name>
+ <set picURL="/Unity of the Droids.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>WUB</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one — 
+- Target artifact gains indestructible until end of turn.
+- Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+- Destroy target nonartifact creature.</text>
+</card>
+<card>
+ <name>Wisdom of the Jedi</name>
+ <set picURL="/Wisdom of the Jedi.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>GWU</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one — 
+- Reveal the top four cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other on the bottom of your library in any order.
+- Target creature you control gets +1/+1 and protection from the color of your choice until end of turn.
+- Counter target permanent spell.</text>
+</card>
+<card>
+ <name>Wookiee Mystic</name>
+ <set picURL="/Wookiee Mystic.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>RGW</manacost>
+ <type>Creature - Wookiee Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>T: Add R, G, or W. If that mana is spent on a creature spell, it enters with an additional +1/+1 counter on it.</text>
+</card>
+<card>
+ <name>Yoda Jedi Master</name>
+ <set picURL="/Yoda Jedi Master.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>1GU</manacost>
+ <type>Legendary Planeswalker - Yoda </type>
+ <tablerow>1</tablerow>
+ <text>+1 Scry 2.
+0 Exile another target permanent you own. Return that card to the battlefield under your control at the beginning of the next end step. 
+-5 You get an emblem with “Hexproof, you and your creatures have.”</text>
+</card>
+<card>
+ <name>Fulfill Contract</name>
+ <set picURL="/Fulfill Contract.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>1B/R</manacost>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target creature with a bounty counter on it. Put a +1/+1 counter on target creature you control.</text>
+</card>
+<card>
+ <name>N-1 Starfighter</name>
+ <set picURL="/N-1 Starfighter.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost>1W/UW/U</manacost>
+ <type>Artifact Creature - Starship </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever this creature deals combat damage to a player or battle, you may pay 1W/U. If you do, exile another target creature you control, then return it to the battlefield under its owner’s control.</text>
+</card>
+<card>
+ <name>Ravenous Wampa</name>
+ <set picURL="/Ravenous Wampa.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>2R/WR/W</manacost>
+ <type>Creature - Beast </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>2R/W, Sacrifice another creature: Monstrosity 2. (If this creature isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous.)
+Whenever you sacrifice a creature, you gain life equal to its toughness. </text>
+</card>
+<card>
+ <name>Strike Team Commando</name>
+ <set picURL="/Strike Team Commando.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>2G/WG/W</manacost>
+ <type>Creature - Human Rebel </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, destroy up to one target non-Starship artifact.</text>
+</card>
+<card>
+ <name>Tri-Fighter</name>
+ <set picURL="/Tri-Fighter.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost>1U/BU/B</manacost>
+ <type>Artifact Creature - Droid Starship </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Repair 3 (When this creature dies, put three repair counters on it. At the beginning of your upkeep, remove a repair counter. When the last is removed, you may cast it this turn.)</text>
+</card>
+<card>
+ <name>Wookiee Raidleader</name>
+ <set picURL="/Wookiee Raidleader.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost>2R/GR/G</manacost>
+ <type>Creature - Wookiee Warrior </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Whenever this creature attacks, put a +1/+1 counter on target creature.</text>
+</card>
+<card>
+ <name>Ancient Holocron</name>
+ <set picURL="/Ancient Holocron.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Add one mana of any color.
+T: Add two mana in any combination of colors. Spend this mana only to cast a multicolored spell.</text>
+</card>
+<card>
+ <name>Dark Trooper</name>
+ <set picURL="/Dark Trooper.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost>3</manacost>
+ <type>Artifact Creature - Droid Trooper </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Repair 2 (When this creature dies, put two repair counters on it. At the beginning of your upkeep, remove a repair counter. When the last is removed, you may cast it this turn.)</text>
+</card>
+<card>
+ <name>Drone Holocron</name>
+ <set picURL="/Drone Holocron.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Put a charge couter on this artifact.
+T: Remove a charge counter from this artifact: Add W, U, or B.
+T: Remove two charge counters from this artifact: Add WU or UB.</text>
+</card>
+<card>
+ <name>Jedi Holocron</name>
+ <set picURL="/Jedi Holocron.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Put a charge counter on this artifact.
+T, Remove a charge counter from this artifact: Add G, W, or U.
+T, Remove two charge counters from this artifact: Add GW or WU.</text>
+</card>
+<card>
+ <name>Lightsaber</name>
+ <set picURL="/Lightsaber.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost>1</manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+0 and has first strike.
+1: Attach Lightsaber to target Jedi or Sith you control.
+Equip 3</text>
+</card>
+<card>
+ <name>Outlaw Holocron</name>
+ <set picURL="/Outlaw Holocron.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Put a charge counter on this artifact.
+T, Remove a charge counter from this artifact: Add B, R, or G.
+T, Remove two charge counters from this artifact: Add BR or RG.</text>
+</card>
+<card>
+ <name>Sith Holocron</name>
+ <set picURL="/Sith Holocron.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Put a charge counter on this artifact.
+T, Remove a charge counter from this artifact: Add U, B, or R.
+T, Remove two charge counters from this artifact: Add UB or BR.</text>
+</card>
+<card>
+ <name>Trooper Armor</name>
+ <set picURL="/Trooper Armor.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+1 and is a Trooper in addition to its other types.
+Whenever a Trooper enters under your control, you may attach Trooper Armor to it.
+Equip 2</text>
+</card>
+<card>
+ <name>Wild Holocron</name>
+ <set picURL="/Wild Holocron.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost>2</manacost>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T: Put a charge counter on this artifact.
+T, Remove a charge counter from this artifact: Add R, G, or W.
+T, Remove two charge counters from this artifact: Add RG or GW.</text>
+</card>
+<card>
+ <name>Ahch-To Ruins</name>
+ <set picURL="/Ahch-To Ruins.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>When this land enters, you gain 1 life.
+T: Add C.
+1, T: Add G, W, or U.</text>
+</card>
+<card>
+ <name>Akkadese Maelstrom</name>
+ <set picURL="/Akkadese Maelstrom.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Sacrifice this land: Choose basic or nonbasic. Reveal cards from the top of your library until you reveal a land card of the chosen kind. Put that card onto the battlefield and the rest on the bottom of your library in a random order.</text>
+</card>
+<card>
+ <name>Alderaan Hills</name>
+ <set picURL="/Alderaan Hills.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+T: Add G or W.
+2GW, T, Sacrifice this land: Draw a card.</text>
+</card>
+<card>
+ <name>Bright Tree Village</name>
+ <set picURL="/Bright Tree Village.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+When this land enters, the next monstrosity ability you activate this turn costs 1 less to activate. Add G.
+T: Add R or W.</text>
+</card>
+<card>
+ <name>Canto Bight</name>
+ <set picURL="/Canto Bight.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+T: Add W or B.
+2WB, T, Sacrifice this land: Draw a card.</text>
+</card>
+<card>
+ <name>Castle Serreno</name>
+ <set picURL="/Castle Serreno.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+When this land enters, remove a repair counter from any number of cards in your graveyard. Add U.
+T: Add W or B.</text>
+</card>
+<card>
+ <name>Cloud City</name>
+ <set picURL="/Cloud City.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+T: Add W or U.
+2WU, T, Sacrifice this land: Draw a card.</text>
+</card>
+<card>
+ <name>Corellian Slums</name>
+ <set picURL="/Corellian Slums.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T, Sacrifice this land: Search your library for a basic Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>Dantooine Enclave</name>
+ <set picURL="/Dantooine Enclave.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T, Sacrifice this land: Search your library for a basic Forest, Plains, or Island card, put it onto he battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>The Death Star</name>
+ <set picURL="/The Death Star.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+1, T: Put a charge counter on The Death Star.
+T, Remove three charge counters from The Death Star: Destroy target permanent.
+T, Remove ten charge counters from The Death Star: Destroy target player.</text>
+</card>
+<card>
+ <name>Dragonsnake Bog</name>
+ <set picURL="/Dragonsnake Bog.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+T: Add B or G.
+2BG, T, Sacrifice this land: Draw a card.</text>
+</card>
+<card>
+ <name>Dxun Outpost</name>
+ <set picURL="/Dxun Outpost.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>When this land enters, you gain 1 life.
+T: Add C.
+1, T: Add R, G, or W.</text>
+</card>
+<card>
+ <name>Eos Foundry</name>
+ <set picURL="/Eos Foundry.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>When this land enters, you gain 1 life.
+T: Add C.
+1, T: Add W, U, or B.</text>
+</card>
+<card>
+ <name>Exegol Arena</name>
+ <set picURL="/Exegol Arena.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+T: Add U, B, or R.
+Cycling 3</text>
+</card>
+<card>
+ <name>Felucian Jungle</name>
+ <set picURL="/Felucian Jungle.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+T: Add R, G, or W.
+Cycling 3</text>
+</card>
+<card>
+ <name>Fortress Vader</name>
+ <set picURL="/Fortress Vader.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+When this land enters, each opponent loses 1 life. Add B.
+T: Add U or R.</text>
+</card>
+<card>
+ <name>Geonosian Factory</name>
+ <set picURL="/Geonosian Factory.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T, Sacrifice this land: Search your library for a basic Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>Great Jedi Library</name>
+ <set picURL="/Great Jedi Library.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+T: Add G, W, or U.
+Cycling 3</text>
+</card>
+<card>
+ <name>Jabbas Palace</name>
+ <set picURL="/Jabbas Palace.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+When this land enters, put a bounty counter on a creature you don’t control. Add R.
+T: Add B or G.</text>
+</card>
+<card>
+ <name>Jakkuvian Ridge</name>
+ <set picURL="/Jakkuvian Ridge.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>W</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+T: Add R or W.
+2RW, T, Sacrifice this land: Draw a card.</text>
+</card>
+<card>
+ <name>Jedi Grand Temple</name>
+ <set picURL="/Jedi Grand Temple.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+When this land enters, the next meditate ability you activate this turn costs 1 less to activate. Add W.
+T: Add G or U.</text>
+</card>
+<card>
+ <name>Kamino Cloning Facility</name>
+ <set picURL="/Kamino Cloning Facility.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T: Add one mana of any color. Spend this mana only to cast a Trooper spell.
+4, T: Create a 1/1 white Trooper creature token.</text>
+</card>
+<card>
+ <name>Korriban Ruins</name>
+ <set picURL="/Korriban Ruins.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T, Sacrifice this land: Search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>Krayt Dragon Den</name>
+ <set picURL="/Krayt Dragon Den.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T, Sacrifice this land: Search your library for a basic Mountain, Forest, or Plains card, put it onto the battlefield tapped, then shuffle.</text>
+</card>
+<card>
+ <name>Lake Country Villa</name>
+ <set picURL="/Lake Country Villa.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+T: Add G or U.
+2GU, T, Sacrifice this land: Draw a card.</text>
+</card>
+<card>
+ <name>Moisture Farm</name>
+ <set picURL="/Moisture Farm.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+T: Put a charge counter on this land.
+T, Remove a charge counter from this land: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Monument Plaza</name>
+ <set picURL="/Monument Plaza.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+When this land enters, sacrifice it unless you pay 1.
+T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>Mos Eisley Cantina</name>
+ <set picURL="/Mos Eisley Cantina.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+T: Add B, R, or G.
+Cycling 3</text>
+</card>
+<card>
+ <name>Nar Shaddaa Spaceport</name>
+ <set picURL="/Nar Shaddaa Spaceport.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>When this land enters, you gain 1 life.
+T: Add C.
+1, T: Add B, R, or G.</text>
+</card>
+<card>
+ <name>Rogues Passage</name>
+ <set picURL="/Rogues Passage.full.jpg" picURLHq="" picURLSt=""></set>
+ <color></color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C.
+4, T: Target creature can’t be blocked this turn.</text>
+</card>
+<card>
+ <name>Scarif Base</name>
+ <set picURL="/Scarif Base.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+T: Add U or R.
+2UR, T, Sacrifice this land: Draw a card.</text>
+</card>
+<card>
+ <name>Sith Citadel</name>
+ <set picURL="/Sith Citadel.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>When this land enters, you gain 1 life.
+T: Add C.
+1, T: Add U, B, or R.</text>
+</card>
+<card>
+ <name>Spice Mine</name>
+ <set picURL="/Spice Mine.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>B</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+T: Add B or R.
+2BR, T, Sacrifice this land: Draw a card.</text>
+</card>
+<card>
+ <name>Utapau World-Ocean</name>
+ <set picURL="/Utapau World-Ocean.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>U</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+T: Add U or B.
+2UB, T, Sacrifice this land: Draw a card.</text>
+</card>
+<card>
+ <name>Vaults of Cato Neimoidia</name>
+ <set picURL="/Vaults of Cato Neimoidia.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>M</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+T: Add W, U, or B.
+Cycling 3</text>
+</card>
+<card>
+ <name>Wroshyr Village</name>
+ <set picURL="/Wroshyr Village.full.jpg" picURLHq="" picURLSt=""></set>
+ <color>R</color>
+ <manacost></manacost>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This land enters tapped.
+T: Add R or G.
+2RG, T, Sacrifice this land: Draw a card.</text>
+</card>
+
+</cards>
+</cockatrice_carddatabase>
