@@ -27,7 +27,7 @@ Repair 4</text>
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="232" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/AAT-1.jpg">SWC</set>
+	<set rarity="uncommon" num="232" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/AAT-1.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -45,7 +45,7 @@ Whenever a creature you control becomes monstrous, it fights target creature you
 		<pt>5/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="233" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Acklay of the Arena.jpg">SWC</set>
+	<set rarity="rare" num="233" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Acklay of the Arena.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -62,7 +62,7 @@ Put a bounty counter on up to one target creature.</text>
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="94" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Acquire Target.jpg">SWC</set>
+	<set rarity="common" num="94" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Acquire Target.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -81,7 +81,7 @@ Whenever you attack with two or more Starships, draw a card.</text>
 		<pt>2/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="48" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Admiral Ackbar.jpg">SWC</set>
+	<set rarity="rare" num="48" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Admiral Ackbar.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -99,7 +99,7 @@ Whenever this creature attacks, each player loses 2 life and you scry 1.</text>
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="234" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Adroit Hateflayer.jpg">SWC</set>
+	<set rarity="common" num="234" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Adroit Hateflayer.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -117,7 +117,7 @@ You may cast this card from your graveyard transformed for {5}{B}{B}. If you do,
 		<pt>5/5</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="mythic" num="235" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Anakin Dark Apprentice.jpg">SWC</set>
+	<set rarity="mythic" num="235" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Anakin Dark Apprentice.jpg">SWC</set>
 	<related attach="transform">Darth Vader</related>
 	<tablerow>2</tablerow>
 </card>
@@ -137,7 +137,7 @@ You may cast this card from your graveyard transformed for {5}{B}{B}. If you do,
 		<loyalty>5</loyalty>
 		<side>back</side>
 	</prop>
-	<set rarity="mythic" num="235" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Anakin Dark Apprentice-Darth Vader.jpg">SWC</set>
+	<set rarity="mythic" num="235" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Anakin Dark Apprentice-Darth Vader.jpg">SWC</set>
 	<related attach="transform">Anakin, Dark Apprentice</related>
 	<tablerow>1</tablerow>
 </card>
@@ -153,7 +153,7 @@ You may cast this card from your graveyard transformed for {5}{B}{B}. If you do,
 		<cmc>3</cmc>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="313" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Ancient Holocron.jpg">SWC</set>
+	<set rarity="rare" num="313" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Ancient Holocron.jpg">SWC</set>
 	<tablerow>1</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -172,7 +172,7 @@ Bounty — Whenever a creature an opponent controls with a bounty counter on it 
 		<pt>4/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="95" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Aqualish Thug.jpg">SWC</set>
+	<set rarity="common" num="95" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Aqualish Thug.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -191,7 +191,7 @@ Repair 3</text>
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="50" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Armed Protocol Droid.jpg">SWC</set>
+	<set rarity="uncommon" num="50" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Armed Protocol Droid.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -208,7 +208,7 @@ Enchanted creature can't attack or block and its activated abilities can't be ac
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="2" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Arrest.jpg">SWC</set>
+	<set rarity="common" num="2" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Arrest.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -227,7 +227,7 @@ Hate — Whenever Asajj Ventress attacks, if an opponent lost life this turn, up
 		<pt>3/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="236" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Asajj Ventress.jpg">SWC</set>
+	<set rarity="rare" num="236" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Asajj Ventress.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -244,7 +244,7 @@ Hate — Whenever Asajj Ventress attacks, if an opponent lost life this turn, up
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="187" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/AT-ST.jpg">SWC</set>
+	<set rarity="rare" num="187" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/AT-ST.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -262,7 +262,7 @@ Whenever one or more nontoken creatures an opponent controls leave the battlefie
 		<pt>4/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="237" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Aurra Sing Bane of Jedi.jpg">SWC</set>
+	<set rarity="rare" num="237" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Aurra Sing Bane of Jedi.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -281,7 +281,7 @@ When this creature becomes monstrous, create a number of 1/1 red Tusken Raider c
 		<pt>3/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="4" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Bantha Herd.jpg">SWC</set>
+	<set rarity="rare" num="4" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Bantha Herd.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -297,7 +297,7 @@ When this creature becomes monstrous, create a number of 1/1 red Tusken Raider c
 		<coloridentity>G</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="188" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Bathe in Bacta.jpg">SWC</set>
+	<set rarity="common" num="188" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Bathe in Bacta.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -313,7 +313,7 @@ When this creature becomes monstrous, create a number of 1/1 red Tusken Raider c
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="7" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Battle Tactics.jpg">SWC</set>
+	<set rarity="uncommon" num="7" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Battle Tactics.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -330,7 +330,7 @@ When this creature becomes monstrous, create a number of 1/1 red Tusken Raider c
 		<pt>2/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="98" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Bib Fortuna.jpg">SWC</set>
+	<set rarity="rare" num="98" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Bib Fortuna.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -348,7 +348,7 @@ Bounty ― Whenever a creature an opponent controls with a bounty counter on it 
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="99" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Black Market Dealer.jpg">SWC</set>
+	<set rarity="uncommon" num="99" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Black Market Dealer.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -365,7 +365,7 @@ At the beginning of combat on your turn, create a tapped 1/1 green Ewok Warrior 
 		<coloridentity>RGW</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="239" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Blind Worship.jpg">SWC</set>
+	<set rarity="rare" num="239" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Blind Worship.jpg">SWC</set>
 	<tablerow>1</tablerow>
 	<related>Ewok Warrior Token</related>
 </card>
@@ -385,7 +385,7 @@ Bounty ― Whenever a creature an opponent controls with a bounty counter on it 
 		<pt>4/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="mythic" num="240" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Boba Fett.jpg">SWC</set>
+	<set rarity="mythic" num="240" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Boba Fett.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -404,7 +404,7 @@ Bounty ― Whenever a creature an opponent controls with a bounty counter on it 
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="192" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Bossk.jpg">SWC</set>
+	<set rarity="rare" num="192" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Bossk.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -422,7 +422,7 @@ Bounty ― Whenever a creature an opponent controls with a bounty counter on it 
 		<pt>2/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="193" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Bounty Collector.jpg">SWC</set>
+	<set rarity="common" num="193" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Bounty Collector.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -440,7 +440,7 @@ Bounty ― Whenever a creature an opponent controls with a bounty counter on it 
 		<pt>1/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="147" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Bounty Sniper.jpg">SWC</set>
+	<set rarity="common" num="147" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Bounty Sniper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -458,7 +458,7 @@ Bounty — Whenever a creature an opponent controls with a bounty counter on it 
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="101" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Bounty Spotter.jpg">SWC</set>
+	<set rarity="common" num="101" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Bounty Spotter.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -476,7 +476,7 @@ You may play an additional land this turn.</text>
 		<pt></pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="101" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Broker a Deal.jpg">SWC</set>
+	<set rarity="rare" num="101" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Broker a Deal.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -495,7 +495,7 @@ Monstrous creatures you control have menace.</text>
 		<pt>6/6</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="243" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Bull Rancor.jpg">SWC</set>
+	<set rarity="rare" num="243" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Bull Rancor.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -513,7 +513,7 @@ Repair 4</text>
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="244" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/C-3PO and R2-D2.jpg">SWC</set>
+	<set rarity="rare" num="244" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/C-3PO and R2-D2.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -530,7 +530,7 @@ Repair 4</text>
 		<pt>0/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="8" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Cantina Band.jpg">SWC</set>
+	<set rarity="common" num="8" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Cantina Band.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -546,7 +546,7 @@ Repair 4</text>
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="148" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Capture.jpg">SWC</set>
+	<set rarity="common" num="148" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Capture.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -565,7 +565,7 @@ Enchanted creature has indestructible.</text>
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="64" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Frozen in Carbonite.jpg">SWC</set>
+	<set rarity="uncommon" num="64" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Frozen in Carbonite.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -584,7 +584,7 @@ Whenever a creature you control becomes monstrous, that creature gets +2/+2 unti
 		<pt>4/5</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="246" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Chewbacca.jpg">SWC</set>
+	<set rarity="rare" num="246" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Chewbacca.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -603,7 +603,7 @@ Whenever one or more +1/+1 counters are put on a creature you control, create th
 		<pt>3/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="247" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Chief Chirpa.jpg">SWC</set>
+	<set rarity="rare" num="247" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Chief Chirpa.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -622,7 +622,7 @@ Whenever enchanted creature attacks, defending player loses 1 life.</text>
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="54" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Cloaking Device.jpg">SWC</set>
+	<set rarity="uncommon" num="54" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Cloaking Device.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -639,7 +639,7 @@ Whenever enchanted creature attacks, defending player loses 1 life.</text>
 		<pt>5/5</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="248" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Commander Cody.jpg">SWC</set>
+	<set rarity="rare" num="248" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Commander Cody.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -655,7 +655,7 @@ Whenever enchanted creature attacks, defending player loses 1 life.</text>
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="9" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Condemn.jpg">SWC</set>
+	<set rarity="uncommon" num="9" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Condemn.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -671,7 +671,7 @@ Whenever enchanted creature attacks, defending player loses 1 life.</text>
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="151" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Crossfire.jpg">SWC</set>
+	<set rarity="common" num="151" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Crossfire.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -690,7 +690,7 @@ Whenever enchanted creature attacks, defending player loses 1 life.</text>
 		<coloridentity>UBR</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="250" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Cruelty of the Sith.jpg">SWC</set>
+	<set rarity="uncommon" num="250" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Cruelty of the Sith.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -706,7 +706,7 @@ Whenever enchanted creature attacks, defending player loses 1 life.</text>
 		<coloridentity>UB</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="251" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Cunning Abduction.jpg">SWC</set>
+	<set rarity="rare" num="251" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Cunning Abduction.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -722,7 +722,7 @@ Whenever enchanted creature attacks, defending player loses 1 life.</text>
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="152" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Dark Apprenticeship.jpg">SWC</set>
+	<set rarity="uncommon" num="152" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Dark Apprenticeship.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -739,7 +739,7 @@ Whenever enchanted creature attacks, defending player loses 1 life.</text>
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="314" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Dark Trooper.jpg">SWC</set>
+	<set rarity="uncommon" num="314" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Dark Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -757,7 +757,7 @@ Hate — Whenever Darth Maul attacks, if an opponent lost life this turn, up to 
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="253" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Darth Maul.jpg">SWC</set>
+	<set rarity="rare" num="253" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Darth Maul.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -775,7 +775,7 @@ Hate - {4}{U}{B}{R}: Exile Chancellor Palpatine, then return him to the battlefi
 		<pt>1/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="mythic" num="245" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Chancellor Palpatine.jpg">SWC</set>
+	<set rarity="mythic" num="245" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Chancellor Palpatine.jpg">SWC</set>
 	<related attach="transform">Darth Sidious, Emperor</related>
 	<tablerow>2</tablerow>
 </card>
@@ -795,7 +795,7 @@ Hate - {4}{U}{B}{R}: Exile Chancellor Palpatine, then return him to the battlefi
 		<loyalty>7</loyalty>
 		<side>back</side>
 	</prop>
-	<set rarity="mythic" num="245" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Chancellor Palpatine-Darth Sidious Emperor.jpg">SWC</set>
+	<set rarity="mythic" num="245" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Chancellor Palpatine-Darth Sidious Emperor.jpg">SWC</set>
 	<related attach="transform">Chancellor Palpatine</related>
 	<tablerow>1</tablerow>
 </card>
@@ -814,7 +814,7 @@ When Dooku enters, return target artifact card from your graveyard to your hand.
 		<pt>2/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="254" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Dooku Count of Serenno.jpg">SWC</set>
+	<set rarity="rare" num="254" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Dooku Count of Serenno.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -832,7 +832,7 @@ Repair 3</text>
 		<pt>4/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="254" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/DT Sentry Droid.jpg">SWC</set>
+	<set rarity="uncommon" num="254" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/DT Sentry Droid.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -850,7 +850,7 @@ Unearth {3}</text>
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="103" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Cave Trooper.jpg">SWC</set>
+	<set rarity="uncommon" num="103" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Cave Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -867,7 +867,7 @@ Unearth {3}</text>
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="10" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Deploy the Troopers.jpg">SWC</set>
+	<set rarity="uncommon" num="10" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Deploy the Troopers.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -883,7 +883,7 @@ Unearth {3}</text>
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="125" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sai Tok.jpg">SWC</set>
+	<set rarity="common" num="125" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sai Tok.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -901,7 +901,7 @@ Repair 3</text>
 		<pt>1/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="106" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Droid Commando.jpg">SWC</set>
+	<set rarity="uncommon" num="106" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Droid Commando.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -919,7 +919,7 @@ Repair 3</text>
 		<pt>2/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="106" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Droid Painsmith.jpg">SWC</set>
+	<set rarity="uncommon" num="106" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Droid Painsmith.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -935,7 +935,7 @@ Cycling {W}{U}{B}</text>
 		<side>front</side>
 		<coloridentity>WUB</coloridentity>
 	</prop>
-	<set rarity="uncommon" num="336" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Geonosian Factory.jpg">SWC</set>
+	<set rarity="uncommon" num="336" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Geonosian Factory.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -951,7 +951,7 @@ When this land enters, add {U}.
 		<coloridentity>WUB</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="327" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Castle Serenno.jpg">SWC</set>
+	<set rarity="rare" num="327" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Castle Serenno.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -970,7 +970,7 @@ Repair 3</text>
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="12" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Droideka.jpg">SWC</set>
+	<set rarity="uncommon" num="12" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Droideka.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -986,7 +986,7 @@ Repair 3</text>
 		<coloridentity>WUB</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="316" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Drone Holocron.jpg">SWC</set>
+	<set rarity="uncommon" num="316" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Drone Holocron.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -1002,7 +1002,7 @@ Repair 3</text>
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="13" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Escape Pod.jpg">SWC</set>
+	<set rarity="common" num="13" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Escape Pod.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1019,7 +1019,7 @@ Repair 3</text>
 		<coloridentity>G</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="197" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Ewok Ambush.jpg">SWC</set>
+	<set rarity="common" num="197" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Ewok Ambush.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1037,7 +1037,7 @@ Whenever this creature attacks, if you attacked with creatures with total power 
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="198" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Ewok Firedancers.jpg">SWC</set>
+	<set rarity="common" num="198" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Ewok Firedancers.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1053,7 +1053,7 @@ When this land enters, add {G}.
 		<coloridentity>RGW</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="325" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Bright Tree Village.jpg">SWC</set>
+	<set rarity="rare" num="325" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Bright Tree Village.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -1072,7 +1072,7 @@ When this creature enters, destroy up to one target artifact. If a Starship was 
 		<pt>8/7</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="199" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Exogorth.jpg">SWC</set>
+	<set rarity="rare" num="199" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Exogorth.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1091,7 +1091,7 @@ When this creature enters, destroy up to one target artifact. If a Starship was 
 		<coloridentity>BRG</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="258" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Ferocity of the Underworld.jpg">SWC</set>
+	<set rarity="uncommon" num="258" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Ferocity of the Underworld.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1108,7 +1108,7 @@ Sacrifice this enchantment: Exile the top X cards of your library, where X is th
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="153" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Flames of Remembrance.jpg">SWC</set>
+	<set rarity="rare" num="153" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Flames of Remembrance.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -1125,7 +1125,7 @@ Hate — If an opponent lost life this turn, counter that spell instead.</text>
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="61" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Force Repulse.jpg">SWC</set>
+	<set rarity="common" num="61" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Force Repulse.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1141,7 +1141,7 @@ Hate — If an opponent lost life this turn, counter that spell instead.</text>
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="107" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Force Drain.jpg">SWC</set>
+	<set rarity="uncommon" num="107" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Force Drain.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1158,7 +1158,7 @@ Cycling {2}</text>
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="14" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Shatterpoint.jpg">SWC</set>
+	<set rarity="common" num="14" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Shatterpoint.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1174,7 +1174,7 @@ Cycling {2}</text>
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="182" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Unlimited Power.jpg">SWC</set>
+	<set rarity="rare" num="182" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Unlimited Power.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1191,7 +1191,7 @@ Meditate {1}{G}</text>
 		<coloridentity>GWU</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="262" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jedi Seeker.jpg">SWC</set>
+	<set rarity="uncommon" num="262" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jedi Seeker.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -1207,7 +1207,7 @@ Meditate {1}{G}</text>
 		<coloridentity>G</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="200" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Force Pull.jpg">SWC</set>
+	<set rarity="common" num="200" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Force Pull.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1223,7 +1223,7 @@ Meditate {1}{G}</text>
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="60" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Force Push.jpg">SWC</set>
+	<set rarity="uncommon" num="60" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Force Push.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1239,7 +1239,7 @@ Meditate {1}{G}</text>
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="24" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jedi Reflexes.jpg">SWC</set>
+	<set rarity="common" num="24" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jedi Reflexes.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1255,7 +1255,7 @@ Meditate {1}{G}</text>
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="156" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Force Scream.jpg">SWC</set>
+	<set rarity="uncommon" num="156" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Force Scream.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1271,7 +1271,7 @@ Meditate {1}{G}</text>
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="157" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Force Spark.jpg">SWC</set>
+	<set rarity="uncommon" num="157" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Force Spark.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1288,7 +1288,7 @@ Destroy target creature.</text>
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="108" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Fulfill Contract.jpg">SWC</set>
+	<set rarity="common" num="108" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Fulfill Contract.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1306,7 +1306,7 @@ This creature attacks each combat if able.</text>
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="158" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Gamorrean Jailer.jpg">SWC</set>
+	<set rarity="common" num="158" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Gamorrean Jailer.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1325,7 +1325,7 @@ Sacrifice another artifact: Put a +1/+1 counter on General Grievous.</text>
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="mythic" num="264" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/General Grievous.jpg">SWC</set>
+	<set rarity="mythic" num="264" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/General Grievous.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1344,7 +1344,7 @@ Meditate {1}{W}</text>
 		<pt>2/3</pt>
 		<side>front</side>
 	</prop>	
-	<set rarity="common" num="15" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Gifted Initiate.jpg">SWC</set>
+	<set rarity="common" num="15" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Gifted Initiate.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1362,7 +1362,7 @@ At the beginning of your end step, if a creature died this turn, for each kind o
 		<pt>3/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="109" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Grand Moff Tarkin.jpg">SWC</set>
+	<set rarity="rare" num="109" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Grand Moff Tarkin.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1381,7 +1381,7 @@ When this creature becomes monstrous, draw a card for each +1/+1 counter on crea
 		<pt>7/7</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="mythic" num="265" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Greater Krayt Dragon.jpg">SWC</set>
+	<set rarity="mythic" num="265" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Greater Krayt Dragon.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1399,7 +1399,7 @@ When Greedo dies, you may search your library for an outlaw creature card, revea
 		<pt>4/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="266" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Greedo.jpg">SWC</set>
+	<set rarity="rare" num="266" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Greedo.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1418,7 +1418,7 @@ When this creature becomes monstrous, it gets +2/+2 until end of turn.</text>
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="160" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Slavering Gundark.jpg">SWC</set>
+	<set rarity="common" num="160" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Slavering Gundark.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1436,7 +1436,7 @@ Whenever this creature deals combat damage to a creature, tap that creature and 
 		<pt>2/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="65" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Gungan Captain.jpg">SWC</set>
+	<set rarity="common" num="65" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Gungan Captain.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1454,7 +1454,7 @@ At the beginning of combat on your turn, Starships you control get +1/+1 and gai
 		<pt>4/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="161" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Han Solo.jpg">SWC</set>
+	<set rarity="rare" num="161" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Han Solo.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1472,7 +1472,7 @@ Draw a card.</text>
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="111" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Head Hunting.jpg">SWC</set>
+	<set rarity="common" num="111" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Head Hunting.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1489,7 +1489,7 @@ Draw a card.</text>
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="16" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Heavy Trooper.jpg">SWC</set>
+	<set rarity="common" num="16" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Heavy Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1506,7 +1506,7 @@ Creatures your opponents control get -1/-1 for each bounty counter on them.</tex
 		<coloridentity>BRG</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="268" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Hot Pursuit.jpg">SWC</set>
+	<set rarity="rare" num="268" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Hot Pursuit.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -1524,7 +1524,7 @@ As long as this creature has three or more +1/+1 counters on it, it has vigilanc
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="227" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Rapacious Dragonsnake.jpg">SWC</set>
+	<set rarity="common" num="227" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Rapacious Dragonsnake.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1540,7 +1540,7 @@ As long as this creature has three or more +1/+1 counters on it, it has vigilanc
 		<coloridentity>BRG</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="269" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Hunt to Extinction.jpg">SWC</set>
+	<set rarity="rare" num="269" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Hunt to Extinction.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1558,7 +1558,7 @@ Whenever this creature attacks, put a stun counter on it and a bounty counter on
 		<pt>5/5</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="203" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Hutt Underboss.jpg">SWC</set>
+	<set rarity="uncommon" num="203" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Hutt Underboss.jpg">SWC</set>
 	<tablerow>2</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -1575,7 +1575,7 @@ When this land enters, add {R}.
 		<coloridentity>BRG</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="341" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jabbas Palace.jpg">SWC</set>
+	<set rarity="rare" num="341" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jabbas Palace.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -1595,7 +1595,7 @@ Repair 3</text>
 		<pt>2/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="112" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/IG-88B.jpg">SWC</set>
+	<set rarity="rare" num="112" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/IG-88B.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1612,7 +1612,7 @@ Repair 3</text>
 		<coloridentity>GW</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="271" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Images of the Past.jpg">SWC</set>
+	<set rarity="uncommon" num="271" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Images of the Past.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -1630,7 +1630,7 @@ Whenever a Starship dies, untap this creature.</text>
 		<pt>1/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="162" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Imperial Gunner.jpg">SWC</set>
+	<set rarity="common" num="162" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Imperial Gunner.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1646,7 +1646,7 @@ Whenever a Starship dies, untap this creature.</text>
 		<coloridentity>RG</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="162" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Infamous Reputation.jpg">SWC</set>
+	<set rarity="rare" num="162" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Infamous Reputation.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1664,7 +1664,7 @@ Unearth {2}{B}{B}</text>
 		<pt>6/5</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="113" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Insatiable Rakghoul.jpg">SWC</set>
+	<set rarity="common" num="113" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Insatiable Rakghoul.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1680,7 +1680,7 @@ Unearth {2}{B}{B}</text>
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="114" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Interrogation.jpg">SWC</set>
+	<set rarity="common" num="114" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Interrogation.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1699,7 +1699,7 @@ At the beginning of each combat, up to one target Starship loses flying until en
 		<pt>0/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="20" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Ion Cannon.jpg">SWC</set>
+	<set rarity="common" num="20" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Ion Cannon.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1716,7 +1716,7 @@ At the beginning of each combat, up to one target Starship loses flying until en
 		<coloridentity>UBR</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="272" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Iron Fist of the Empire.jpg">SWC</set>
+	<set rarity="rare" num="272" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Iron Fist of the Empire.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -1735,7 +1735,7 @@ Meditate {1}{G}</text>
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="204" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Devoted Initiate.jpg">SWC</set>
+	<set rarity="common" num="204" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Devoted Initiate.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1754,7 +1754,7 @@ Meditate {1}{G}</text>
 		<pt>1/5</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="273" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jabba the Hutt.jpg">SWC</set>
+	<set rarity="rare" num="273" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jabba the Hutt.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1772,7 +1772,7 @@ Whenever Jango Fett attacks, put a bounty counter on up to one target creature. 
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="274" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jango Fett.jpg">SWC</set>
+	<set rarity="rare" num="274" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jango Fett.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1791,7 +1791,7 @@ At the beginning of combat on your turn, you may tap two other untapped creature
 		<pt>0/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="67" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jar Jar Binks.jpg">SWC</set>
+	<set rarity="rare" num="67" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jar Jar Binks.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1807,7 +1807,7 @@ At the beginning of combat on your turn, you may tap two other untapped creature
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="164" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/JarKai Battle Stance.jpg">SWC</set>
+	<set rarity="uncommon" num="164" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/JarKai Battle Stance.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -1827,7 +1827,7 @@ Meditate {1}{W}</text>
 		<pt>2/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="21" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jedi Healer.jpg">SWC</set>
+	<set rarity="common" num="21" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jedi Healer.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1847,7 +1847,7 @@ Meditate {1}{G}</text>
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="205" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jedi Consular.jpg">SWC</set>
+	<set rarity="common" num="205" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jedi Consular.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1863,7 +1863,7 @@ Cycling {G}{W}{U}</text>
 		<side>front</side>
 		<coloridentity>GWU</coloridentity>
 	</prop>
-	<set rarity="uncommon" num="331" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Dantooine Enclave.jpg">SWC</set>
+	<set rarity="uncommon" num="331" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Dantooine Enclave.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -1879,7 +1879,7 @@ Cycling {G}{W}{U}</text>
 		<coloridentity>GWU</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="317" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jedi Holocron.jpg">SWC</set>
+	<set rarity="uncommon" num="317" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jedi Holocron.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -1898,7 +1898,7 @@ Meditate {1}{W}</text>
 		<pt>3/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="22" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jedi Inquirer.jpg">SWC</set>
+	<set rarity="uncommon" num="22" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jedi Inquirer.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1917,7 +1917,7 @@ Meditate {1}{W}</text>
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="23" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jedi Guardian.jpg">SWC</set>
+	<set rarity="common" num="23" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jedi Guardian.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1936,7 +1936,7 @@ You may cast Jedi spells from the top of your library.</text>
 		<pt>4/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="275" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Anakin Skywalker.jpg">SWC</set>
+	<set rarity="rare" num="275" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Anakin Skywalker.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1952,7 +1952,7 @@ You may cast Jedi spells from the top of your library.</text>
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="69" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jedi Mind Trick.jpg">SWC</set>
+	<set rarity="rare" num="69" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jedi Mind Trick.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -1971,7 +1971,7 @@ Meditate {1}{W}</text>
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="276" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jedi Sentinel.jpg">SWC</set>
+	<set rarity="uncommon" num="276" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jedi Sentinel.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -1989,7 +1989,7 @@ When this creature enters, exile another target permanent. Return that card to t
 		<pt>2/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="25" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jedi Starfighter.jpg">SWC</set>
+	<set rarity="uncommon" num="25" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jedi Starfighter.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2005,7 +2005,7 @@ When this land enters, add {W}.
 		<coloridentity>GWU</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="342" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jedi Grand Temple.jpg">SWC</set>
+	<set rarity="rare" num="342" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jedi Grand Temple.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -2024,7 +2024,7 @@ Whenever a creature you control leaves the battlefield without dying, scry 1.</t
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="70" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jedi Training.jpg">SWC</set>
+	<set rarity="uncommon" num="70" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jedi Training.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -2042,7 +2042,7 @@ You may cast Trooper spells as though they had flash.</text>
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="71" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jump Trooper.jpg">SWC</set>
+	<set rarity="uncommon" num="71" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jump Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2060,7 +2060,7 @@ Repair 3</text>
 		<pt>5/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="71" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/KX Enforcer Squad.jpg">SWC</set>
+	<set rarity="common" num="71" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/KX Enforcer Squad.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2076,7 +2076,7 @@ Cycling {R}{G}{W}</text>
 		<side>front</side>
 		<coloridentity>RGW</coloridentity>
 	</prop>
-	<set rarity="uncommon" num="350" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Petranaki Arena.jpg">SWC</set>
+	<set rarity="uncommon" num="350" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Petranaki Arena.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -2093,7 +2093,7 @@ Cycling {R}{G}{W}</text>
 		<side>front</side>
 		<coloridentity>WUBRG</coloridentity>
 	</prop>
-	<set rarity="rare" num="328" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Cloning Facility.jpg">SWC</set>
+	<set rarity="rare" num="328" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Cloning Facility.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -2112,7 +2112,7 @@ Meditate {1}{G}</text>
 		<pt>4/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="207" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Ki-Adi-Mundi.jpg">SWC</set>
+	<set rarity="rare" num="207" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Ki-Adi-Mundi.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2131,7 +2131,7 @@ Whenever this creature attacks, create a 1/1 white Trooper creature token that's
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="26" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/LAAT Gunship.jpg">SWC</set>
+	<set rarity="uncommon" num="26" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/LAAT Gunship.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2149,7 +2149,7 @@ At the beginning of combat on your turn, Starships you control get +1/+1 and gai
 		<pt>4/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="27" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Lando Calrissian.jpg">SWC</set>
+	<set rarity="rare" num="27" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Lando Calrissian.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2166,7 +2166,7 @@ Search your library for a creature card with mana value X or less, where X is 2 
 		<coloridentity>G</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="208" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Legacy of the Beloved.jpg">SWC</set>
+	<set rarity="rare" num="208" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Legacy of the Beloved.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -2182,7 +2182,7 @@ Search your library for a creature card with mana value X or less, where X is 2 
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="155" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Lightning Strike.jpg">SWC</set>
+	<set rarity="common" num="155" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Lightning Strike.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -2198,7 +2198,7 @@ Equip {3}</text>
 		<cmc>1</cmc>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="318" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Lightsaber.jpg">SWC</set>
+	<set rarity="uncommon" num="318" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Lightsaber.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -2216,7 +2216,7 @@ When this creature dies, return another target creature card from your graveyard
 		<pt>3/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="28" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Loyal Tauntaun.jpg">SWC</set>
+	<set rarity="common" num="28" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Loyal Tauntaun.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2233,7 +2233,7 @@ When this creature dies, return another target creature card from your graveyard
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="mythic" num="29" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Luke Rebellious Youth.jpg">SWC</set>
+	<set rarity="mythic" num="29" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Luke Rebellious Youth.jpg">SWC</set>
 	<related attach="transform">Luke Skywalker</related>
 	<tablerow>2</tablerow>
 </card>
@@ -2252,7 +2252,7 @@ When this creature dies, return another target creature card from your graveyard
 		<loyalty>3</loyalty>
 		<side>back</side>
 	</prop>
-	<set rarity="mythic" num="29" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Luke Rebellious Youth-Luke Skywalker.jpg">SWC</set>
+	<set rarity="mythic" num="29" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Luke Rebellious Youth-Luke Skywalker.jpg">SWC</set>
 	<related attach="transform">Luke, Rebellious Youth</related>
 	<related>Luke Skywalker Emblem</related>
 	<tablerow>1</tablerow>
@@ -2273,7 +2273,7 @@ Whenever another Jedi you control enters, put a +1/+1 counter on Mace Windu. He 
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="72" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Mace Windu.jpg">SWC</set>
+	<set rarity="rare" num="72" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Mace Windu.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2291,7 +2291,7 @@ Repair 3</text>
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="279" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Maintenance Droid.jpg">SWC</set>
+	<set rarity="common" num="279" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Maintenance Droid.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2308,7 +2308,7 @@ At the beginning of your upkeep, remove an additional repair counter from each c
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="30" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Maintenance Hangar.jpg">SWC</set>
+	<set rarity="uncommon" num="30" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Maintenance Hangar.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -2326,7 +2326,7 @@ Creatures with power less than this creature's power can't block it.</text>
 		<pt>4/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="209" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Mantellian Savrip.jpg">SWC</set>
+	<set rarity="uncommon" num="209" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Mantellian Savrip.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2343,7 +2343,7 @@ Creatures with power less than this creature's power can't block it.</text>
 		<coloridentity>WU</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="280" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/March of the Droids.jpg">SWC</set>
+	<set rarity="rare" num="280" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/March of the Droids.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -2361,7 +2361,7 @@ Whenever this creature becomes blocked, put a bounty counter on each blocking cr
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="210" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Maudlin Instigator.jpg">SWC</set>
+	<set rarity="common" num="210" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Maudlin Instigator.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2380,7 +2380,7 @@ Whenever this creature becomes blocked, put a bounty counter on each blocking cr
 		<coloridentity>RGW</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="281" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Might of the Wild.jpg">SWC</set>
+	<set rarity="uncommon" num="281" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Might of the Wild.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -2399,7 +2399,7 @@ When Millenium Falcon enters, creatures you control gain hexproof until end of t
 		<pt>4/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="211" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Millenium Falcon.jpg">SWC</set>
+	<set rarity="rare" num="211" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Millenium Falcon.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2415,7 +2415,7 @@ When Millenium Falcon enters, creatures you control gain hexproof until end of t
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="31" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Miraculous Recovery.jpg">SWC</set>
+	<set rarity="uncommon" num="31" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Miraculous Recovery.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -2431,7 +2431,7 @@ When Millenium Falcon enters, creatures you control gain hexproof until end of t
 		<side>front</side>
 		<coloridentity>WUBRG</coloridentity>
 	</prop>
-	<set rarity="uncommon" num="345" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Moisture Farm.jpg">SWC</set>
+	<set rarity="uncommon" num="345" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Moisture Farm.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -2449,7 +2449,7 @@ Whenever this creature deals combat damage to a player or battle, draw a card.</
 		<pt>3/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="74" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Mon Calamari Cruiser.jpg">SWC</set>
+	<set rarity="uncommon" num="74" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Mon Calamari Cruiser.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2468,7 +2468,7 @@ Meditate {1}{U}</text>
 		<pt>3/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="75" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Keen Initiate.jpg">SWC</set>
+	<set rarity="common" num="75" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Keen Initiate.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2486,7 +2486,7 @@ Whenever this creature deals combat damage to a player or battle, you may pay {1
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="282" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/N-1 Starfighter.jpg">SWC</set>
+	<set rarity="uncommon" num="282" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/N-1 Starfighter.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2504,7 +2504,7 @@ Whenever enchanted land is tapped for mana, its controller adds an additional on
 		<pt></pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="32" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Natural Navigation.jpg">SWC</set>
+	<set rarity="common" num="32" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Natural Navigation.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2522,7 +2522,7 @@ When this creature enters, creatures you control get +1/+1 and gain vigilance un
 		<pt>4/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="32" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Nebulon-B Frigate.jpg">SWC</set>
+	<set rarity="common" num="32" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Nebulon-B Frigate.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2539,7 +2539,7 @@ When this creature enters, creatures you control get +1/+1 and gain vigilance un
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="117" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Neophyte Hateflayer.jpg">SWC</set>
+	<set rarity="common" num="117" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Neophyte Hateflayer.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2557,7 +2557,7 @@ Monstrous creatures you control have trample.</text>
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="212" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Nerf Herder.jpg">SWC</set>
+	<set rarity="uncommon" num="212" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Nerf Herder.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2576,7 +2576,7 @@ Whenever this creature deals damage to a player, planeswalker, or battle, if it 
 		<pt>1/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="214" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Nexu Stalker.jpg">SWC</set>
+	<set rarity="uncommon" num="214" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Nexu Stalker.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2592,7 +2592,7 @@ Whenever this creature deals damage to a player, planeswalker, or battle, if it 
 		<coloridentity>G</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="216" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/No Contest.jpg">SWC</set>
+	<set rarity="common" num="216" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/No Contest.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -2610,7 +2610,7 @@ Bounty — Whenever a creature an opponent controls with a bounty counter on it 
 		<pt>2/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="165" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Novice Bounty Hunter.jpg">SWC</set>
+	<set rarity="common" num="165" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Novice Bounty Hunter.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2629,7 +2629,7 @@ Bounty — Whenever a creature an opponent controls with a bounty counter on it 
 		<pt>2/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="283" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Nute Gunray.jpg">SWC</set>
+	<set rarity="rare" num="283" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Nute Gunray.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2648,7 +2648,7 @@ Meditate {1}{U}</text>
 		<pt>4/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="284" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Obi-Wan Kenobi.jpg">SWC</set>
+	<set rarity="rare" num="284" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Obi-Wan Kenobi.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2666,7 +2666,7 @@ Bounty — Whenever a creature an opponent controls with a bounty counter on it 
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="118" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Open Season.jpg">SWC</set>
+	<set rarity="uncommon" num="118" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Open Season.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -2682,7 +2682,7 @@ Bounty — Whenever a creature an opponent controls with a bounty counter on it 
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="33" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Orbital Bombardment.jpg">SWC</set>
+	<set rarity="rare" num="33" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Orbital Bombardment.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -2698,7 +2698,7 @@ Bounty — Whenever a creature an opponent controls with a bounty counter on it 
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="119" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Order 66.jpg">SWC</set>
+	<set rarity="rare" num="119" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Order 66.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -2715,7 +2715,7 @@ Bounty — Whenever a creature an opponent controls with a bounty counter on it 
 		<pt>1/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="78" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Ortolan Keyboardist.jpg">SWC</set>
+	<set rarity="common" num="78" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Ortolan Keyboardist.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2733,7 +2733,7 @@ Each outlaw you control has trample as long as it's being blocked by a creature 
 		<pt>4/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="285" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Outer Rim Heavies.jpg">SWC</set>
+	<set rarity="common" num="285" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Outer Rim Heavies.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2749,7 +2749,7 @@ Each outlaw you control has trample as long as it's being blocked by a creature 
 		<coloridentity>BRG</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="319" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Outlaw Holocron.jpg">SWC</set>
+	<set rarity="uncommon" num="319" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Outlaw Holocron.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -2766,7 +2766,7 @@ Draw a card.</text>
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="79" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Personal Energy Shield.jpg">SWC</set>
+	<set rarity="common" num="79" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Personal Energy Shield.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -2786,7 +2786,7 @@ Meditate {1}{W}</text>
 		<pt>5/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="36" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Plo Koon.jpg">SWC</set>
+	<set rarity="rare" num="36" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Plo Koon.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2802,7 +2802,7 @@ Meditate {1}{W}</text>
 		<coloridentity>GWU</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="287" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Precipice of Mortis.jpg">SWC</set>
+	<set rarity="rare" num="287" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Precipice of Mortis.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -2820,7 +2820,7 @@ When this Aura is put into a graveyard from the battlefield, return it to its ow
 		<coloridentity>G</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="186" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Aspect of Rancor.jpg">SWC</set>
+	<set rarity="uncommon" num="186" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Aspect of Rancor.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -2836,7 +2836,7 @@ When this Aura is put into a graveyard from the battlefield, return it to its ow
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="80" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Preordain.jpg">SWC</set>
+	<set rarity="uncommon" num="80" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Preordain.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -2856,7 +2856,7 @@ When Princess Leia enters, create two 1/1 white Rebel Soldier creature tokens.
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="37" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Princess Leia.jpg">SWC</set>
+	<set rarity="rare" num="37" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Princess Leia.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2875,7 +2875,7 @@ Repair 4</text>
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="81" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Probe Droid.jpg">SWC</set>
+	<set rarity="common" num="81" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Probe Droid.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2894,7 +2894,7 @@ Meditate {1}{W}</text>
 		<pt>4/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="290" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Qui-Gon Jinn.jpg">SWC</set>
+	<set rarity="rare" num="290" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Qui-Gon Jinn.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2912,7 +2912,7 @@ Meditate {1}{W}</text>
 		<pt>5/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="166" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Raging Reek.jpg">SWC</set>
+	<set rarity="common" num="166" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Raging Reek.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2931,7 +2931,7 @@ Meditate {1}{W}</text>
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="167" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Rallying Fire.jpg">SWC</set>
+	<set rarity="common" num="167" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Rallying Fire.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -2949,7 +2949,7 @@ Whenever a creature you control becomes monstrous, it gains hexproof until end o
 		<pt>4/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="291" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Ravenous Wampa.jpg">SWC</set>
+	<set rarity="uncommon" num="291" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Ravenous Wampa.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2967,7 +2967,7 @@ Whenever another nontoken creature you control enters, you may draw a card. If y
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="82" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Republic Frigate.jpg">SWC</set>
+	<set rarity="common" num="82" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Republic Frigate.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -2983,7 +2983,7 @@ Whenever another nontoken creature you control enters, you may draw a card. If y
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="121" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Repurpose.jpg">SWC</set>
+	<set rarity="common" num="121" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Repurpose.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -2999,7 +2999,7 @@ Whenever another nontoken creature you control enters, you may draw a card. If y
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="185" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/You Were My Brother.jpg">SWC</set>
+	<set rarity="common" num="185" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/You Were My Brother.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -3017,7 +3017,7 @@ Whenever another nontoken creature you control enters, you may draw a card. If y
 		<pt>2/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="38" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Riding Ronto.jpg">SWC</set>
+	<set rarity="common" num="38" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Riding Ronto.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3034,7 +3034,7 @@ Whenever another nontoken creature you control enters, you may draw a card. If y
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="143" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Artillery Trooper.jpg">SWC</set>
+	<set rarity="rare" num="143" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Artillery Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3051,7 +3051,7 @@ Hate — At the beginning of combat on your turn, if an opponent lost life this 
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="122" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Rule of Two.jpg">SWC</set>
+	<set rarity="rare" num="122" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Rule of Two.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -3068,7 +3068,7 @@ Draw two cards.</text>
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="83" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Rumination.jpg">SWC</set>
+	<set rarity="common" num="83" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Rumination.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -3084,7 +3084,7 @@ Draw two cards.</text>
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="168" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Gamble.jpg">SWC</set>
+	<set rarity="rare" num="168" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Gamble.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -3101,7 +3101,7 @@ Draw two cards.</text>
 		<pt>3/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="293" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Salvage Squad.jpg">SWC</set>
+	<set rarity="common" num="293" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Salvage Squad.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3118,7 +3118,7 @@ Draw two cards.</text>
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="35" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Patrol Trooper.jpg">SWC</set>
+	<set rarity="common" num="35" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Patrol Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3138,7 +3138,7 @@ When this creature becomes monstrous, it loses hexproof and gains first strike a
 		<pt>0/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="295" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sarlacc Pit.jpg">SWC</set>
+	<set rarity="rare" num="295" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sarlacc Pit.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3154,7 +3154,7 @@ When this creature becomes monstrous, it loses hexproof and gains first strike a
 		<coloridentity>G</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="218" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Scout the Perimeter.jpg">SWC</set>
+	<set rarity="common" num="218" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Scout the Perimeter.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -3171,7 +3171,7 @@ When this creature becomes monstrous, it loses hexproof and gains first strike a
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="224" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Trooper Sergeant.jpg">SWC</set>
+	<set rarity="common" num="224" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Trooper Sergeant.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3190,7 +3190,7 @@ Repair 3</text>
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="40" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Security Droid.jpg">SWC</set>
+	<set rarity="common" num="40" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Security Droid.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3209,7 +3209,7 @@ Repair 3</text>
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="298" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Senator Bail Organa.jpg">SWC</set>
+	<set rarity="uncommon" num="298" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Senator Bail Organa.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3227,7 +3227,7 @@ Whenever a creature you control attacks alone, it gets +1/+1 until end of turn. 
 		<pt>1/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="286" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Padme Amidala.jpg">SWC</set>
+	<set rarity="uncommon" num="286" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Padme Amidala.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3245,7 +3245,7 @@ Whenever a creature you control attacks alone, it gets +1/+1 until end of turn. 
 		<pt>3/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="297" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Relentless Pit Fighter.jpg">SWC</set>
+	<set rarity="common" num="297" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Relentless Pit Fighter.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3263,7 +3263,7 @@ When this creature becomes monstrous, destroy up to one target artifact or encha
 		<pt>2/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="220" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Shaak Herd.jpg">SWC</set>
+	<set rarity="common" num="220" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Shaak Herd.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3280,7 +3280,7 @@ When this creature becomes monstrous, destroy up to one target artifact or encha
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="84" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Shadow Trooper.jpg">SWC</set>
+	<set rarity="uncommon" num="84" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Shadow Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3297,7 +3297,7 @@ When this creature becomes monstrous, destroy up to one target artifact or encha
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="171" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Shock Trooper.jpg">SWC</set>
+	<set rarity="uncommon" num="171" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Shock Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3313,7 +3313,7 @@ When this creature becomes monstrous, destroy up to one target artifact or encha
 		<coloridentity>G</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="221" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Show of Dominance.jpg">SWC</set>
+	<set rarity="uncommon" num="221" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Show of Dominance.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -3330,7 +3330,7 @@ When this creature becomes monstrous, destroy up to one target artifact or encha
 		<pt>3/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="127" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sith Assassin.jpg">SWC</set>
+	<set rarity="common" num="127" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sith Assassin.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3346,7 +3346,7 @@ When this land enters, add {B}.
 		<coloridentity>UBR</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="335" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Fortress Vader.jpg">SWC</set>
+	<set rarity="rare" num="335" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Fortress Vader.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -3365,7 +3365,7 @@ Hate — When this creature enters, if an opponent lost life this turn, return t
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="128" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sith Evoker.jpg">SWC</set>
+	<set rarity="uncommon" num="128" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sith Evoker.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3381,7 +3381,7 @@ Hate — When this creature enters, if an opponent lost life this turn, return t
 		<coloridentity>UBR</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="320" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sith Holocron.jpg">SWC</set>
+	<set rarity="uncommon" num="320" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sith Holocron.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -3398,7 +3398,7 @@ Hate — When this creature enters, if an opponent lost life this turn, return t
 		<pt>5/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="130" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sith Inquisitor.jpg">SWC</set>
+	<set rarity="uncommon" num="130" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sith Inquisitor.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3417,7 +3417,7 @@ At the beginning of your upkeep, each opponent loses 1 life.</text>
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="131" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sith Lord.jpg">SWC</set>
+	<set rarity="rare" num="131" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sith Lord.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3433,7 +3433,7 @@ At the beginning of your upkeep, each opponent loses 1 life.</text>
 		<coloridentity>UBR</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="300" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sith Magic.jpg">SWC</set>
+	<set rarity="rare" num="300" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sith Magic.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -3451,7 +3451,7 @@ Hate — If an opponent lost life this turn, put that permanent on top of its ow
 		<pt>2/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="86" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sith Manipulator.jpg">SWC</set>
+	<set rarity="common" num="86" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sith Manipulator.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3468,7 +3468,7 @@ Hate — If an opponent lost life this turn, put that permanent on top of its ow
 		<pt>5/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="174" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sith Marauder.jpg">SWC</set>
+	<set rarity="uncommon" num="174" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sith Marauder.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3485,7 +3485,7 @@ Hate — If an opponent lost life this turn, put that permanent on top of its ow
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="301" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sith Mindseer.jpg">SWC</set>
+	<set rarity="uncommon" num="301" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sith Mindseer.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3502,7 +3502,7 @@ Hate — If an opponent lost life this turn, put that permanent on top of its ow
 		<pt>3/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="175" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sith Ravager.jpg">SWC</set>
+	<set rarity="common" num="175" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sith Ravager.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3518,7 +3518,7 @@ Cycling {U}{B}{R}</text>
 		<side>front</side>
 		<coloridentity>UBR</coloridentity>
 	</prop>
-	<set rarity="uncommon" num="343" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Korriban Ruins.jpg">SWC</set>
+	<set rarity="uncommon" num="343" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Korriban Ruins.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -3536,7 +3536,7 @@ Hate — When this creature dies, if an opponent lost life this turn, draw a car
 		<pt>3/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="87" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sith Sorcerer.jpg">SWC</set>
+	<set rarity="common" num="87" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sith Sorcerer.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3553,7 +3553,7 @@ Hate — When this creature dies, if an opponent lost life this turn, draw a car
 		<pt>2/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="132" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sith Thoughtseeker.jpg">SWC</set>
+	<set rarity="common" num="132" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sith Thoughtseeker.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3572,7 +3572,7 @@ Bounty — Whenever a creature an opponent controls with a bounty counter on it 
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="302" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Slave I.jpg">SWC</set>
+	<set rarity="rare" num="302" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Slave I.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3588,7 +3588,7 @@ Bounty — Whenever a creature an opponent controls with a bounty counter on it 
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="176" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Smash to Smithereens.jpg">SWC</set>
+	<set rarity="uncommon" num="176" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Smash to Smithereens.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -3605,7 +3605,7 @@ Bounty — Whenever a creature an opponent controls with a bounty counter on it 
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="42" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Snow Trooper.jpg">SWC</set>
+	<set rarity="common" num="42" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Snow Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3622,7 +3622,7 @@ Bounty — Whenever a creature an opponent controls with a bounty counter on it 
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="177" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Speeder Trooper.jpg">SWC</set>
+	<set rarity="common" num="177" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Speeder Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3641,7 +3641,7 @@ At the beginning of combat on your turn, this creature deals 3 damage to any tar
 		<pt>6/6</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="303" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Star Destroyer.jpg">SWC</set>
+	<set rarity="rare" num="303" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Star Destroyer.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3661,7 +3661,7 @@ At the beginning of combat on your turn, this creature deals 3 damage to any tar
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="304" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Strike Team Captain.jpg">SWC</set>
+	<set rarity="common" num="304" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Strike Team Captain.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3679,7 +3679,7 @@ Repair 2</text>
 		<pt>4/5</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="90" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Super Battle Droid.jpg">SWC</set>
+	<set rarity="uncommon" num="90" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Super Battle Droid.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3696,7 +3696,7 @@ Draw a card.</text>
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="66" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Inspire.jpg">SWC</set>
+	<set rarity="common" num="66" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Inspire.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -3714,7 +3714,7 @@ Whenever a bounty counter is put on a creature an opponent controls, that creatu
 		<pt>3/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="179" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Syndicate Findsman.jpg">SWC</set>
+	<set rarity="uncommon" num="179" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Syndicate Findsman.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3733,7 +3733,7 @@ Repair 3</text>
 		<pt>5/5</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="305" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Tank Droid.jpg">SWC</set>
+	<set rarity="rare" num="305" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Tank Droid.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3751,7 +3751,7 @@ Repair 3</text>
 		<pt>3/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="180" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Terentatek Cub.jpg">SWC</set>
+	<set rarity="uncommon" num="180" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Terentatek Cub.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3769,7 +3769,7 @@ Repair 3</text>
 		<coloridentity>G</coloridentity>		
 		<side>front</side>
 	</prop>
-	<set rarity="mythic" num="189" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Endor.jpg">SWC</set>
+	<set rarity="mythic" num="189" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Endor.jpg">SWC</set>
 	<related attach="transform">Planetary Shield Generator</related>
 	<tablerow>1</tablerow>
 	<cipt>1</cipt>
@@ -3787,7 +3787,7 @@ Lands you control have indestructible.</text>
 		<coloridentity>G</coloridentity>
 		<side>back</side>
 	</prop>
-	<set rarity="mythic" num="189" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Endor-Planetary Shield Generator.jpg">SWC</set>
+	<set rarity="mythic" num="189" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Endor-Planetary Shield Generator.jpg">SWC</set>
 	<related attach="transform">The Battle of Endor</related>
 	<tablerow>1</tablerow>
 </card>
@@ -3806,7 +3806,7 @@ Lands you control have indestructible.</text>
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="mythic" num="146" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Geonosis.jpg">SWC</set>
+	<set rarity="mythic" num="146" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Geonosis.jpg">SWC</set>
 	<related attach="transform">Core Ship Obliteration</related>
 	<tablerow>1</tablerow>
 	<cipt>1</cipt>
@@ -3824,7 +3824,7 @@ Whenever you discard a card, exile the top card of your library. You may play th
 		<coloridentity>R</coloridentity>
 		<side>back</side>
 	</prop>
-	<set rarity="mythic" num="146" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Geonosis-Core Ship Obliteration.jpg">SWC</set>
+	<set rarity="mythic" num="146" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Geonosis-Core Ship Obliteration.jpg">SWC</set>
 	<related attach="transform">The Battle of Geonosis</related>
 	<tablerow>1</tablerow>
 </card>
@@ -3843,7 +3843,7 @@ Whenever you discard a card, exile the top card of your library. You may play th
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="mythic" num="5" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Hoth.jpg">SWC</set>
+	<set rarity="mythic" num="5" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Hoth.jpg">SWC</set>
 	<related attach="transform">Echo Base</related>
 	<tablerow>1</tablerow>
 	<cipt>1</cipt>
@@ -3861,7 +3861,7 @@ Sacrifice this enchantment: Creatures you control gain hexproof and indestructib
 		<coloridentity>W</coloridentity>
 		<side>back</side>
 	</prop>
-	<set rarity="mythic" num="5" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Hoth-Echo Base.jpg">SWC</set>
+	<set rarity="mythic" num="5" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Hoth-Echo Base.jpg">SWC</set>
 	<related attach="transform">The Battle of Hoth</related>
 	<tablerow>1</tablerow>
 </card>
@@ -3880,7 +3880,7 @@ Sacrifice this enchantment: Creatures you control gain hexproof and indestructib
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="mythic" num="53" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Naboo.jpg">SWC</set>
+	<set rarity="mythic" num="53" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Naboo.jpg">SWC</set>
 	<related attach="transform">Journey Through the Core</related>
 	<tablerow>1</tablerow>
 	<cipt>1</cipt>
@@ -3898,7 +3898,7 @@ At the beginning of your end step, untap all permanents you control.</text>
 		<coloridentity>U</coloridentity>
 		<side>back</side>
 	</prop>
-	<set rarity="mythic" num="53" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Naboo-Journey Through the Core.jpg">SWC</set>
+	<set rarity="mythic" num="53" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Naboo-Journey Through the Core.jpg">SWC</set>
 	<related attach="transform">The Battle of Naboo</related>
 	<tablerow>1</tablerow>
 </card>
@@ -3918,7 +3918,7 @@ Whenever a creature attacks this Siege, defending player loses 1 life.</text>
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="mythic" num="97" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Yavin.jpg">SWC</set>
+	<set rarity="mythic" num="97" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Yavin.jpg">SWC</set>
 	<related attach="transform">Trench Run</related>
 	<tablerow>1</tablerow>
 	<cipt>1</cipt>
@@ -3935,7 +3935,7 @@ Whenever a creature attacks this Siege, defending player loses 1 life.</text>
 		<coloridentity>B</coloridentity>
 		<side>back</side>
 	</prop>
-	<set rarity="mythic" num="97" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Yavin-Trench Run.jpg">SWC</set>
+	<set rarity="mythic" num="97" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Yavin-Trench Run.jpg">SWC</set>
 	<related attach="transform">The Battle of Yavin</related>
 	<tablerow>1</tablerow>
 </card>
@@ -3952,7 +3952,7 @@ Whenever a creature attacks this Siege, defending player loses 1 life.</text>
 		<cmc>0</cmc>
 		<side>front</side>
 	</prop>
-	<set rarity="mythic" num="315" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Death Star.jpg">SWC</set>
+	<set rarity="mythic" num="315" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Death Star.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -3970,7 +3970,7 @@ Whenever this creature deals combat damage to a player or battle, you may sacrif
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="136" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/TIE Bomber.jpg">SWC</set>
+	<set rarity="common" num="136" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/TIE Bomber.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -3988,7 +3988,7 @@ Whenever another artifact you control enters, this creature gets +1/+1 and gains
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="137" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/TIE Interceptor.jpg">SWC</set>
+	<set rarity="uncommon" num="137" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/TIE Interceptor.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4009,7 +4009,7 @@ Artifact spells you cast cost {1} less to cast.</text>
 		<pt>0/7</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="278" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Lucrehulk Battleship.jpg">SWC</set>
+	<set rarity="rare" num="278" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Lucrehulk Battleship.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4027,7 +4027,7 @@ Repair 3</text>
 		<pt>3/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="307" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Tri-Fighter.jpg">SWC</set>
+	<set rarity="uncommon" num="307" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Tri-Fighter.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4044,7 +4044,7 @@ Repair 3</text>
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="201" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Forest Trooper.jpg">SWC</set>
+	<set rarity="rare" num="201" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Forest Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4061,7 +4061,7 @@ Repair 3</text>
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="226" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Twilek Smuggler.jpg">SWC</set>
+	<set rarity="common" num="226" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Twilek Smuggler.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4079,7 +4079,7 @@ Repair 3</text>
 		<pt>0/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="91" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Ugnaught Scrap Worker.jpg">SWC</set>
+	<set rarity="common" num="91" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Ugnaught Scrap Worker.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4095,7 +4095,7 @@ Cycling {B}{R}{G}{</text>
 		<side>front</side>
 		<coloridentity>BRG</coloridentity>
 	</prop>
-	<set rarity="uncommon" num="330" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Corellian Slums.jpg">SWC</set>
+	<set rarity="uncommon" num="330" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Corellian Slums.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -4114,7 +4114,7 @@ Cycling {B}{R}{G}{</text>
 		<coloridentity>WUB</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="310" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Unity of the Droids.jpg">SWC</set>
+	<set rarity="uncommon" num="310" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Unity of the Droids.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -4132,7 +4132,7 @@ Cycling {B}{R}{G}{</text>
 		<pt>4/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="138" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Unruly Sureshot.jpg">SWC</set>
+	<set rarity="uncommon" num="138" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Unruly Sureshot.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4148,7 +4148,7 @@ Cycling {B}{R}{G}{</text>
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="63" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Force Whirlwind.jpg">SWC</set>
+	<set rarity="common" num="63" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Force Whirlwind.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -4166,7 +4166,7 @@ Whenever you cast a noncreature spell, this creature gets +2/+0 until end of tur
 		<pt>1/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="183" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/V-Wing.jpg">SWC</set>
+	<set rarity="uncommon" num="183" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/V-Wing.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4184,7 +4184,7 @@ Whenever a creature you control becomes monstrous, put an additional +1/+1 count
 		<pt>2/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="184" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Weequay Beastmaster.jpg">SWC</set>
+	<set rarity="uncommon" num="184" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Weequay Beastmaster.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4200,7 +4200,7 @@ Whenever a creature you control becomes monstrous, put an additional +1/+1 count
 		<coloridentity>RGW</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="323" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Wild Holocron.jpg">SWC</set>
+	<set rarity="uncommon" num="323" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Wild Holocron.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -4220,7 +4220,7 @@ Choose one —
 		<coloridentity>GWU</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="311" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Wisdom of the Jedi.jpg">SWC</set>
+	<set rarity="uncommon" num="311" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Wisdom of the Jedi.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -4238,7 +4238,7 @@ When this creature becomes monstrous, it gains lifelink and vigilance until end 
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="46" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Womp Rats.jpg">SWC</set>
+	<set rarity="common" num="46" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Womp Rats.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4256,7 +4256,7 @@ Whenever this creature deals combat damage to a player or battle, put a bounty c
 		<pt>4/5</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="229" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Wookiee Bounty Hunter.jpg">SWC</set>
+	<set rarity="common" num="229" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Wookiee Bounty Hunter.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4273,7 +4273,7 @@ Whenever this creature deals combat damage to a player or battle, put a bounty c
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="230" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Wookiee Mystic.jpg">SWC</set>
+	<set rarity="uncommon" num="230" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Wookiee Mystic.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4291,7 +4291,7 @@ Whenever this creature attacks, you may pay {W}. If you do, target attacking cre
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="47" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/X-Wing.jpg">SWC</set>
+	<set rarity="common" num="47" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/X-Wing.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4309,7 +4309,7 @@ Whenever this creature attacks, you may pay {W}. If you do, target attacking cre
 		<pt>1/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="mythic" num="57" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Cryptic Hermit.jpg">SWC</set>
+	<set rarity="mythic" num="57" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Cryptic Hermit.jpg">SWC</set>
 	<related attach="transform">Yoda, Jedi Grand Master</related>
 	<tablerow>2</tablerow>
 </card>
@@ -4328,7 +4328,7 @@ Whenever this creature attacks, you may pay {W}. If you do, target attacking cre
 		<loyalty>4</loyalty>
 		<side>back</side>
 	</prop>
-	<set rarity="mythic" num="57" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Cryptic Hermit-Yoda Jedi Grand Master.jpg">SWC</set>
+	<set rarity="mythic" num="57" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Cryptic Hermit-Yoda Jedi Grand Master.jpg">SWC</set>
 	<related attach="transform">Cryptic Hermit</related>
 	<related>Yoda, Jedi Grand Master Emblem</related>
 	<tablerow>1</tablerow>
@@ -4348,7 +4348,7 @@ Whenever this creature deals combat damage to a player or battle, you may pay {1
 		<pt>2/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="92" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Y-Wing.jpg">SWC</set>
+	<set rarity="uncommon" num="92" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Y-Wing.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4366,7 +4366,7 @@ As Zam Wesell enters, each opponent reveals their hand. You may have Zam Wesell 
 		<pt>3/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="93" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Zam Wesell.jpg">SWC</set>
+	<set rarity="rare" num="93" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Zam Wesell.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4380,7 +4380,7 @@ As Zam Wesell enters, each opponent reveals their hand. You may have Zam Wesell 
 		<side>front</side>
 		<coloridentity>WUBRG</coloridentity>
 	</prop>
-	<set rarity="rare" num="337" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Gravitic Maelstrom.jpg">SWC</set>
+	<set rarity="rare" num="337" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Gravitic Maelstrom.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -4396,7 +4396,7 @@ When this land enters, sacrifice it unless you pay {1}.
 		<side>front</side>
 		<coloridentity>WUBRG</coloridentity>
 	</prop>
-	<set rarity="uncommon" num="346" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Monument Plaza.jpg">SWC</set>
+	<set rarity="uncommon" num="346" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Monument Plaza.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4412,7 +4412,7 @@ Cycling {3}</text>
 		<coloridentity>WUB</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="349" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Neimoidian Bridge City.jpg">SWC</set>
+	<set rarity="rare" num="349" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Neimoidian Bridge City.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4428,7 +4428,7 @@ Cycling {3}</text>
 		<coloridentity>UBR</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="357" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Tombs of Dathomir.jpg">SWC</set>
+	<set rarity="rare" num="357" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Tombs of Dathomir.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4444,7 +4444,7 @@ Cycling {3}</text>
 		<coloridentity>GWU</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="338" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Great Jedi Library.jpg">SWC</set>
+	<set rarity="rare" num="338" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Great Jedi Library.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4461,7 +4461,7 @@ Cycling {3}</text>
 		<coloridentity>UBR</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="353" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sith Citadel.jpg">SWC</set>
+	<set rarity="uncommon" num="353" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sith Citadel.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -4476,7 +4476,7 @@ Cycling {3}</text>
 		<coloridentity>RGW</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="334" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Felucian Jungle.jpg">SWC</set>
+	<set rarity="rare" num="334" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Felucian Jungle.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4493,7 +4493,7 @@ Cycling {3}</text>
 		<coloridentity>WUB</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="333" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Eos Foundry.jpg">SWC</set>
+	<set rarity="uncommon" num="333" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Eos Foundry.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -4509,7 +4509,7 @@ Cycling {3}</text>
 		<coloridentity>GWU</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="340" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Meditation Chamber.jpg">SWC</set>
+	<set rarity="uncommon" num="340" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Meditation Chamber.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -4525,7 +4525,7 @@ Cycling {3}</text>
 		<coloridentity>BRG</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="348" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Nar Shaddaa Promenade.jpg">SWC</set>
+	<set rarity="uncommon" num="348" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Nar Shaddaa Promenade.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -4540,7 +4540,7 @@ Cycling {3}</text>
 		<coloridentity>BRG</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="347" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Mos Eisley Cantina.jpg">SWC</set>
+	<set rarity="rare" num="347" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Mos Eisley Cantina.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4557,7 +4557,7 @@ Cycling {3}</text>
 		<coloridentity>RGW</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="332" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Dxun Outpost.jpg">SWC</set>
+	<set rarity="uncommon" num="332" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Dxun Outpost.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -4572,7 +4572,7 @@ Cycling {3}</text>
 		<coloridentity>WU</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="329" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Cloud City.jpg">SWC</set>
+	<set rarity="common" num="329" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Cloud City.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4588,7 +4588,7 @@ Cycling {3}</text>
 		<coloridentity>WB</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="352" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Vaults of Scipio.jpg">SWC</set>
+	<set rarity="common" num="352" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Vaults of Scipio.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4604,7 +4604,7 @@ Cycling {3}</text>
 		<coloridentity>BR</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="354" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Spice Mines.jpg">SWC</set>
+	<set rarity="common" num="354" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Spice Mines.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4620,7 +4620,7 @@ Cycling {3}</text>
 		<coloridentity>BG</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="339" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Hermits Refuge.jpg">SWC</set>
+	<set rarity="common" num="339" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Hermits Refuge.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4636,7 +4636,7 @@ Cycling {3}</text>
 		<coloridentity>WR</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="356" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sunbaked Ridge.jpg">SWC</set>
+	<set rarity="common" num="356" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sunbaked Ridge.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4652,7 +4652,7 @@ Cycling {3}</text>
 		<coloridentity>GW</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="324" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Alderaan Hills.jpg">SWC</set>
+	<set rarity="common" num="324" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Alderaan Hills.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4668,7 +4668,7 @@ Cycling {3}</text>
 		<coloridentity>UR</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="344" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Scarif Base.jpg">SWC</set>
+	<set rarity="common" num="344" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Scarif Base.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4684,7 +4684,7 @@ Cycling {3}</text>
 		<coloridentity>UB</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="355" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Subsurface Ocean.jpg">SWC</set>
+	<set rarity="common" num="355" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Subsurface Ocean.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4700,7 +4700,7 @@ Cycling {3}</text>
 		<coloridentity>UG</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="358" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Varykino Villa.jpg">SWC</set>
+	<set rarity="common" num="358" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Varykino Villa.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4716,7 +4716,7 @@ Cycling {3}</text>
 		<coloridentity>RG</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="360" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Wroshyr Village.jpg">SWC</set>
+	<set rarity="common" num="360" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Wroshyr Village.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -4735,7 +4735,7 @@ Sacrifice Queen Amidala: Target creature gains hexproof and indestructible until
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="289" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Queen Amidala.jpg">SWC</set>
+	<set rarity="rare" num="289" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Queen Amidala.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4751,7 +4751,7 @@ Sacrifice Queen Amidala: Target creature gains hexproof and indestructible until
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="100" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Bludgeoning Pain.jpg">SWC</set>
+	<set rarity="common" num="100" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Bludgeoning Pain.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -4769,7 +4769,7 @@ The first outlaw spell you cast each turn costs {1} less to cast for each bounty
 		<pt>4/5</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="104" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Dengar the Demolisher.jpg">SWC</set>
+	<set rarity="rare" num="104" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Dengar the Demolisher.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4788,7 +4788,7 @@ When this creature becomes monstrous, it gains menace until end of turn.</text>
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="159" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Geonosian Warrior.jpg">SWC</set>
+	<set rarity="common" num="159" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Geonosian Warrior.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4806,7 +4806,7 @@ Bounty — Whenever a creature an opponent controls with a bounty counter on it 
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="267" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Hondo Ohnaka.jpg">SWC</set>
+	<set rarity="uncommon" num="267" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Hondo Ohnaka.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4822,7 +4822,7 @@ Bounty — Whenever a creature an opponent controls with a bounty counter on it 
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="51" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Astrogation Error.jpg">SWC</set>
+	<set rarity="uncommon" num="51" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Astrogation Error.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -4841,7 +4841,7 @@ Meditate {1}{U}</text>
 		<pt>3/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="277" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Kit Fisto.jpg">SWC</set>
+	<set rarity="rare" num="277" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Kit Fisto.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4859,7 +4859,7 @@ Meditate {1}{U}</text>
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="172" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Shoot First.jpg">SWC</set>
+	<set rarity="common" num="172" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Shoot First.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -4877,7 +4877,7 @@ Whenever a creature you control leaves the battlefield while this card is in you
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="89" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Spider Droid.jpg">SWC</set>
+	<set rarity="common" num="89" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Spider Droid.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4895,7 +4895,7 @@ Whenever a creature you control leaves the battlefield while this card is in you
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="306" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Tarfful Wookiee General.jpg">SWC</set>
+	<set rarity="uncommon" num="306" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Tarfful Wookiee General.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -4913,7 +4913,7 @@ Starships attacking this battle can't be blocked. Excess damage those creatures 
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="145" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Coruscant.jpg">SWC</set>
+	<set rarity="rare" num="145" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Coruscant.jpg">SWC</set>
 	<related attach="transform">Feed Your Anger</related>
 	<tablerow>1</tablerow>
 	<cipt>1</cipt>
@@ -4930,7 +4930,7 @@ Starships attacking this battle can't be blocked. Excess damage those creatures 
 		<coloridentity>R</coloridentity>
 		<side>back</side>
 	</prop>
-	<set rarity="rare" num="145" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Coruscant-Feed Your Anger.jpg">SWC</set>
+	<set rarity="rare" num="145" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Coruscant-Feed Your Anger.jpg">SWC</set>
 	<related attach="transform">The Battle of Coruscant</related>
 	<tablerow>3</tablerow>
 </card>
@@ -4948,7 +4948,7 @@ Starships attacking this battle can't be blocked. Excess damage those creatures 
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="52" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Kamino.jpg">SWC</set>
+	<set rarity="rare" num="52" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Kamino.jpg">SWC</set>
 	<related attach="transform">Embryo Chamber</related>
 	<tablerow>1</tablerow>
 	<cipt>1</cipt>
@@ -4965,7 +4965,7 @@ Starships attacking this battle can't be blocked. Excess damage those creatures 
 		<coloridentity>U</coloridentity>
 		<side>back</side>
 	</prop>
-	<set rarity="rare" num="52" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Kamino-Embryo Chamber.jpg">SWC</set>
+	<set rarity="rare" num="52" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Kamino-Embryo Chamber.jpg">SWC</set>
 	<related attach="transform">The Battle of Kamino</related>
 	<tablerow>1</tablerow>
 </card>
@@ -4983,7 +4983,7 @@ Starships attacking this battle can't be blocked. Excess damage those creatures 
 		<coloridentity>G</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="190" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Kashyyyk.jpg">SWC</set>
+	<set rarity="rare" num="190" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Kashyyyk.jpg">SWC</set>
 	<related attach="transform">Wookiee Militia</related>
 	<tablerow>1</tablerow>
 	<cipt>1</cipt>
@@ -5002,7 +5002,7 @@ Whenever you cast a spell, this creature gains indestructible until end of turn.
 		<pt>4/3</pt>
 		<side>back</side>
 	</prop>
-	<set rarity="rare" num="190" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Kashyyyk-Wookiee Militia.jpg">SWC</set>
+	<set rarity="rare" num="190" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Kashyyyk-Wookiee Militia.jpg">SWC</set>
 	<related attach="transform">The Battle of Kashyyyk</related>
 	<tablerow>2</tablerow>
 </card>
@@ -5020,7 +5020,7 @@ Whenever you cast a spell, this creature gains indestructible until end of turn.
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="96" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Utapau.jpg">SWC</set>
+	<set rarity="rare" num="96" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Utapau.jpg">SWC</set>
 	<related attach="transform">The First Galactic Empire</related>
 	<tablerow>1</tablerow>
 	<cipt>1</cipt>
@@ -5037,7 +5037,7 @@ Whenever you cast a spell, this creature gains indestructible until end of turn.
 		<coloridentity>B</coloridentity>
 		<side>back</side>
 	</prop>
-	<set rarity="rare" num="96" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Utapau-The First Galactic Empire.jpg">SWC</set>
+	<set rarity="rare" num="96" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Utapau-The First Galactic Empire.jpg">SWC</set>
 	<related attach="transform">The Battle of Utapau</related>
 	<tablerow>1</tablerow>
 </card>
@@ -5055,7 +5055,7 @@ Whenever you cast a spell, this creature gains indestructible until end of turn.
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="6" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Scarif.jpg">SWC</set>
+	<set rarity="rare" num="6" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Scarif.jpg">SWC</set>
 	<related attach="transform">Landing Pad</related>
 	<tablerow>1</tablerow>
 	<cipt>1</cipt>
@@ -5073,7 +5073,7 @@ At the beginning of your end step, create a 1/1 white Rebel Soldier creature tok
 		<coloridentity>W</coloridentity>
 		<side>back</side>
 	</prop>
-	<set rarity="rare" num="6" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/The Battle of Scarif-Landing Pad.jpg">SWC</set>
+	<set rarity="rare" num="6" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/The Battle of Scarif-Landing Pad.jpg">SWC</set>
 	<related attach="transform">The Battle of Scarif</related>
 	<related>Rebel Soldier Token</related>
 	<tablerow>1</tablerow>
@@ -5091,7 +5091,7 @@ At the beginning of your end step, create a 1/1 white Rebel Soldier creature tok
 		<coloridentity>UB</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="260" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Force Choke.jpg">SWC</set>
+	<set rarity="uncommon" num="260" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Force Choke.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5109,7 +5109,7 @@ Hate — {1}{R}: Put a +1/+1 counter on this creature. Activate only if an oppon
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="173" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sith Acolyte.jpg">SWC</set>
+	<set rarity="uncommon" num="173" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sith Acolyte.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5127,7 +5127,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<pt>2/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="115" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Korriban Tomb Guardian.jpg">SWC</set>
+	<set rarity="uncommon" num="115" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Korriban Tomb Guardian.jpg">SWC</set>
 	<tablerow>2</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -5146,7 +5146,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<coloridentity>GWU</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="263" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Force Awakening.jpg">SWC</set>
+	<set rarity="rare" num="263" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Force Awakening.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5164,7 +5164,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="154" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Force Crush.jpg">SWC</set>
+	<set rarity="uncommon" num="154" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Force Crush.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5180,7 +5180,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<coloridentity>GWU</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="259" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Force Bond.jpg">SWC</set>
+	<set rarity="rare" num="259" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Force Bond.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -5196,7 +5196,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="124" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Cut Down.jpg">SWC</set>
+	<set rarity="common" num="124" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Cut Down.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5213,7 +5213,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="110" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Hazard Trooper.jpg">SWC</set>
+	<set rarity="uncommon" num="110" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Hazard Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5230,7 +5230,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="219" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Scout Trooper.jpg">SWC</set>
+	<set rarity="common" num="219" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Scout Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5247,7 +5247,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="144" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Assault Trooper.jpg">SWC</set>
+	<set rarity="common" num="144" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Assault Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5265,7 +5265,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<pt>3/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="225" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Trooper Squad Leader.jpg">SWC</set>
+	<set rarity="rare" num="225" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Trooper Squad Leader.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5282,7 +5282,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="45" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Trooper Medic.jpg">SWC</set>
+	<set rarity="uncommon" num="45" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Trooper Medic.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5299,7 +5299,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="39" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sand Trooper.jpg">SWC</set>
+	<set rarity="common" num="39" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sand Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5316,7 +5316,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<pt>5/5</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="223" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Trooper Commando.jpg">SWC</set>
+	<set rarity="common" num="223" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Trooper Commando.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5333,7 +5333,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="134" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Swamp Trooper.jpg">SWC</set>
+	<set rarity="common" num="134" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Swamp Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5350,7 +5350,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="163" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Flame Trooper.jpg">SWC</set>
+	<set rarity="uncommon" num="163" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Flame Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5367,7 +5367,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="85" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Shore Trooper.jpg">SWC</set>
+	<set rarity="common" num="85" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Shore Trooper.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5383,7 +5383,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="19" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Hyperspace Collapse.jpg">SWC</set>
+	<set rarity="rare" num="19" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Hyperspace Collapse.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5399,7 +5399,7 @@ Hate — {1}{B}: Return this creature from your graveyard to your hand. Activate
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="116" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Mass Shadow Generator.jpg">SWC</set>
+	<set rarity="rare" num="116" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Mass Shadow Generator.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5416,7 +5416,7 @@ Cron Drift Supernova deals 10 damage to each creature and each planeswalker.</te
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="150" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Cron Drift Supernova.jpg">SWC</set>
+	<set rarity="rare" num="150" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Cron Drift Supernova.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5432,7 +5432,7 @@ Cron Drift Supernova deals 10 damage to each creature and each planeswalker.</te
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="34" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Path to Exile.jpg">SWC</set>
+	<set rarity="uncommon" num="34" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Path to Exile.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5449,7 +5449,7 @@ Target creature you control fights target creature you don't control.</text>
 		<coloridentity>G</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="196" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Enter the Arena.jpg">SWC</set>
+	<set rarity="common" num="196" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Enter the Arena.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5466,7 +5466,7 @@ Destroy target creature or planeswalker.</text>
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="133" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Strike Down.jpg">SWC</set>
+	<set rarity="uncommon" num="133" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Strike Down.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5484,7 +5484,7 @@ Destroy target creature or planeswalker.</text>
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="141" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Abrade.jpg">SWC</set>
+	<set rarity="uncommon" num="141" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Abrade.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5501,7 +5501,7 @@ Scorching Elimination deals 4 damage to target creature.</text>
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="169" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Scorching Elimination.jpg">SWC</set>
+	<set rarity="uncommon" num="169" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Scorching Elimination.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5517,7 +5517,7 @@ Scorching Elimination deals 4 damage to target creature.</text>
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="170" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Shiak.jpg">SWC</set>
+	<set rarity="common" num="170" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Shiak.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5534,7 +5534,7 @@ Destroy target creature or planeswalker.</text>
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="123" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Ruthless Rise.jpg">SWC</set>
+	<set rarity="common" num="123" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Ruthless Rise.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5551,7 +5551,7 @@ Destroy target creature or planeswalker.</text>
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="102" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Butcher.jpg">SWC</set>
+	<set rarity="uncommon" num="102" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Butcher.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5567,7 +5567,7 @@ Destroy target creature or planeswalker.</text>
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="43" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Take Vengeance.jpg">SWC</set>
+	<set rarity="common" num="43" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Take Vengeance.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5585,7 +5585,7 @@ Whenever this creature attacks, untap up to one target Starship defending player
 		<pt>3/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="202" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Hammerhead Corvette.jpg">SWC</set>
+	<set rarity="uncommon" num="202" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Hammerhead Corvette.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5599,7 +5599,7 @@ Whenever this creature attacks, untap up to one target Starship defending player
 		<cmc>1</cmc>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="321" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Thermal Detonator.jpg">SWC</set>
+	<set rarity="common" num="321" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Thermal Detonator.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -5619,7 +5619,7 @@ Whenever this creature attacks, untap up to one target Starship defending player
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="139" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Vaders Command.jpg">SWC</set>
+	<set rarity="rare" num="139" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Vaders Command.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5638,7 +5638,7 @@ Whenever this creature attacks, untap up to one target Starship defending player
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="142" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Afterburn.jpg">SWC</set>
+	<set rarity="common" num="142" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Afterburn.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5654,7 +5654,7 @@ Whenever this creature attacks, untap up to one target Starship defending player
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="56" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Conscription.jpg">SWC</set>
+	<set rarity="uncommon" num="56" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Conscription.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5672,7 +5672,7 @@ When this creature enters, it deals 1 damage to any target.</text>
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="149" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Corellian Gunship.jpg">SWC</set>
+	<set rarity="common" num="149" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Corellian Gunship.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5691,7 +5691,7 @@ When this creature enters, it deals 1 damage to any target.</text>
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="105" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Despair.jpg">SWC</set>
+	<set rarity="uncommon" num="105" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Despair.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5708,7 +5708,7 @@ When this creature enters, it deals 1 damage to any target.</text>
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="11" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Droid Uprising.jpg">SWC</set>
+	<set rarity="uncommon" num="11" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Droid Uprising.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5726,7 +5726,7 @@ Repair 4</text>
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="3" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Astromech.jpg">SWC</set>
+	<set rarity="common" num="3" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Astromech.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5743,7 +5743,7 @@ Draw a card.</text>
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="62" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Force Stasis.jpg">SWC</set>
+	<set rarity="common" num="62" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Force Stasis.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5761,7 +5761,7 @@ Bounty — Whenever a creature an opponent controls with a bounty counter on it 
 		<pt>4/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="309" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Underworld Enforcer.jpg">SWC</set>
+	<set rarity="common" num="309" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Underworld Enforcer.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5779,7 +5779,7 @@ Repair 3</text>
 		<pt>1/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="77" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Mouse Droid.jpg">SWC</set>
+	<set rarity="common" num="77" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Mouse Droid.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5798,7 +5798,7 @@ Repair 4</text>
 		<pt>*/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="58" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Droid Gunship.jpg">SWC</set>
+	<set rarity="uncommon" num="58" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Droid Gunship.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5816,7 +5816,7 @@ Whenever this creature attacks, you may return target artifact or creature card 
 		<pt>4/5</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="294" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sandcrawler.jpg">SWC</set>
+	<set rarity="uncommon" num="294" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sandcrawler.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5834,7 +5834,7 @@ Whenever this creature deals combat damage to a player or battle, draw a card, t
 		<pt>2/1</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="88" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Spaceport Swindler.jpg">SWC</set>
+	<set rarity="common" num="88" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Spaceport Swindler.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5853,7 +5853,7 @@ When this creature becomes monstrous, tap target artifact an opponent controls a
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="18" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Hungry Mynock.jpg">SWC</set>
+	<set rarity="uncommon" num="18" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Hungry Mynock.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5869,7 +5869,7 @@ When this creature becomes monstrous, tap target artifact an opponent controls a
 		<coloridentity>GWU</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="249" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Councils Verdict.jpg">SWC</set>
+	<set rarity="rare" num="249" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Councils Verdict.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5887,7 +5887,7 @@ When Ahsoka Tano enters, return target spell or permanent to its owner's hand.</
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="49" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Ahsoka Tano.jpg">SWC</set>
+	<set rarity="rare" num="49" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Ahsoka Tano.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5905,7 +5905,7 @@ Repair 4</text>
 		<pt>*/*</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="73" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Magna Guard.jpg">SWC</set>
+	<set rarity="rare" num="73" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Magna Guard.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5922,7 +5922,7 @@ Enchanted artifact is a Droid creature with base power and toughness 5/5 in addi
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="55" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Combat Enhancement.jpg">SWC</set>
+	<set rarity="uncommon" num="55" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Combat Enhancement.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -5939,7 +5939,7 @@ Counter target spell.</text>
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="59" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Force Barrier.jpg">SWC</set>
+	<set rarity="common" num="59" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Force Barrier.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5955,7 +5955,7 @@ Counter target spell.</text>
 		<coloridentity>B</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="126" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Scavenge.jpg">SWC</set>
+	<set rarity="common" num="126" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Scavenge.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -5973,7 +5973,7 @@ Counter target spell.</text>
 		<pt>3/4</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="228" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Vornskr Pack.jpg">SWC</set>
+	<set rarity="uncommon" num="228" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Vornskr Pack.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -5989,7 +5989,7 @@ Counter target spell.</text>
 		<coloridentity>G</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="213" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Nexu Ambush.jpg">SWC</set>
+	<set rarity="rare" num="213" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Nexu Ambush.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -6008,7 +6008,7 @@ Monstrosity abilities you activate cost {2} less to activate if you lost life th
 		<pt>6/6</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="217" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Peaceful Horax.jpg">SWC</set>
+	<set rarity="rare" num="217" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Peaceful Horax.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -6027,7 +6027,7 @@ Whenever a creature you control becomes monstrous, draw a card.
 		<pt>1/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="231" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Ysalamiri Brood.jpg">SWC</set>
+	<set rarity="uncommon" num="231" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Ysalamiri Brood.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -6046,7 +6046,7 @@ Meditate {1}{G}</text>
 		<pt>2/2</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="206" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Jedi Animist.jpg">SWC</set>
+	<set rarity="uncommon" num="206" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Jedi Animist.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -6062,7 +6062,7 @@ Meditate {1}{G}</text>
 		<coloridentity>G</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="191" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Bestial Rampage.jpg">SWC</set>
+	<set rarity="uncommon" num="191" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Bestial Rampage.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -6078,7 +6078,7 @@ Meditate {1}{G}</text>
 		<coloridentity>G</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="194" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Commune with the Force.jpg">SWC</set>
+	<set rarity="rare" num="194" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Commune with the Force.jpg">SWC</set>
 	<tablerow>1</tablerow>
 </card>
 <card>
@@ -6096,7 +6096,7 @@ Meditate {1}{G}</text>
 		<pt>6/6</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="181" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Terentatek Mauler.jpg">SWC</set>
+	<set rarity="rare" num="181" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Terentatek Mauler.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -6113,7 +6113,7 @@ Cycling {2}</text>
 		<coloridentity>G</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="222" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sun Djem.jpg">SWC</set>
+	<set rarity="common" num="222" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sun Djem.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -6130,7 +6130,7 @@ Draw a card.</text>
 		<coloridentity>U</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="76" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Cho Mok.jpg">SWC</set>
+	<set rarity="common" num="76" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Cho Mok.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -6146,7 +6146,7 @@ Draw a card.</text>
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="41" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Shiim.jpg">SWC</set>
+	<set rarity="common" num="41" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Shiim.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -6162,7 +6162,7 @@ Draw a card.</text>
 		<coloridentity>RGW</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="296" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Savage Appetite.jpg">SWC</set>
+	<set rarity="uncommon" num="296" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Savage Appetite.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -6178,7 +6178,7 @@ Draw a card.</text>
 		<coloridentity>W</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="44" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Thunderous Applause.jpg">SWC</set>
+	<set rarity="rare" num="44" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Thunderous Applause.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -6194,7 +6194,7 @@ Draw a card.</text>
 		<coloridentity>BRG</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="270" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Hunters Trophy.jpg">SWC</set>
+	<set rarity="rare" num="270" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Hunters Trophy.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -6210,7 +6210,7 @@ Draw a card.</text>
 		<coloridentity>UBR</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="257" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Imperial Mercy.jpg">SWC</set>
+	<set rarity="rare" num="257" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Imperial Mercy.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -6228,7 +6228,7 @@ Whenever one or more creatures you control deal combat damage to a player or bat
 		<pt>2/3</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="uncommon" num="241" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Bothan Infiltrator.jpg">SWC</set>
+	<set rarity="uncommon" num="241" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Bothan Infiltrator.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -6248,7 +6248,7 @@ Whenever one or more creatures you control deal combat damage to a player or bat
 		<coloridentity>RG</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="308" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Uncivilized Conduct.jpg">SWC</set>
+	<set rarity="common" num="308" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Uncivilized Conduct.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -6265,7 +6265,7 @@ Whenever one or more creatures you control deal combat damage to a player or bat
 		<pt>4/5</pt>
 		<side>front</side>
 	</prop>
-	<set rarity="common" num="238" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Belligerent Brawler.jpg">SWC</set>
+	<set rarity="common" num="238" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Belligerent Brawler.jpg">SWC</set>
 	<tablerow>2</tablerow>
 </card>
 <card>
@@ -6282,7 +6282,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<coloridentity>R</coloridentity>
 		<side>front</side>
 	</prop>
-	<set rarity="rare" num="178" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Strike Twice.jpg">SWC</set>
+	<set rarity="rare" num="178" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Strike Twice.jpg">SWC</set>
 	<tablerow>3</tablerow>
 </card>
 <card>
@@ -6296,7 +6296,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>WUBRG</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Wellspring of Life.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Wellspring of Life.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -6310,7 +6310,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>GU</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Biox Detour.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Biox Detour.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -6324,7 +6324,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>RG</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Corellian Run.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Corellian Run.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -6338,7 +6338,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>WU</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Hydian Way.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Hydian Way.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -6352,7 +6352,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>WB</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Ison Corridor.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Ison Corridor.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -6366,7 +6366,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>BR</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Kessel Run.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Kessel Run.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -6380,7 +6380,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>BG</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Mantellian Trail.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Mantellian Trail.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -6394,7 +6394,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>GW</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Perlemian Route.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Perlemian Route.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -6408,7 +6408,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>UB</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Rimma Approach.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Rimma Approach.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -6422,7 +6422,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>UR</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Roon Curve.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Roon Curve.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -6436,7 +6436,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>RW</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Sullustan Path.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Sullustan Path.jpg">SWC</set>
 	<tablerow>0</tablerow>
 </card>
 <card>
@@ -6451,7 +6451,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>RGW</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Onderon Grove.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Onderon Grove.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -6467,7 +6467,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>WBU</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Balmorran Lagoon.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Balmorran Lagoon.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -6483,7 +6483,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>BGR</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Mount Tantiss.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Mount Tantiss.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -6499,7 +6499,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>WGU</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Lake Country Meadow.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Lake Country Meadow.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -6515,7 +6515,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<side>front</side>
 		<coloridentity>UBR</coloridentity>
 	</prop>
-	<set rarity="rare" num="359" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Koboh Mire.jpg">SWC</set>
+	<set rarity="rare" num="359" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Koboh Mire.jpg">SWC</set>
 	<tablerow>0</tablerow>
 	<cipt>1</cipt>
 </card>
@@ -6529,7 +6529,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<colors>W</colors>
 		<pt>1/1</pt>
 	</prop>
-	<set num="3" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Tusken Raider Token.jpg">SWC</set>
+	<set num="3" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Tusken Raider Token.jpg">SWC</set>
 	<token>1</token>
 	<tablerow>2</tablerow>
 </card>
@@ -6543,7 +6543,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<colors>B</colors>
 		<pt>1/1</pt>
 	</prop>
-	<set num="5" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/TIE Fighter Token.jpg">SWC</set>
+	<set num="5" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/TIE Fighter Token.jpg">SWC</set>
 	<token>1</token>
 	<tablerow>2</tablerow>
 </card>
@@ -6555,7 +6555,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<maintype>Emblem</maintype>
 		<cmc>0</cmc>
 	</prop>
-	<set num="11" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Yoda Jedi Grand Master Emblem.jpg">SWC</set>
+	<set num="11" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Yoda Jedi Grand Master Emblem.jpg">SWC</set>
 	<token>1</token>
 	<tablerow>1</tablerow>
 </card>
@@ -6567,7 +6567,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<maintype>Emblem</maintype>
 		<cmc>0</cmc>
 	</prop>
-	<set num="12" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Luke Skywalker Emblem.jpg">SWC</set>
+	<set num="12" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Luke Skywalker Emblem.jpg">SWC</set>
 	<token>1</token>
 	<tablerow>1</tablerow>
 </card>
@@ -6581,7 +6581,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<colors>R</colors>
 		<pt>2/2</pt>
 	</prop>
-	<set num="7" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Royal Guard Token.jpg">SWC</set>
+	<set num="7" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Royal Guard Token.jpg">SWC</set>
 	<token>1</token>
 	<tablerow>2</tablerow>
 </card>
@@ -6595,7 +6595,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<colors>U</colors>
 		<pt>2/2</pt>
 	</prop>
-	<set num="4" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/B-Wing Token.jpg">SWC</set>
+	<set num="4" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/B-Wing Token.jpg">SWC</set>
 	<token>1</token>
 	<tablerow>2</tablerow>
 </card>
@@ -6609,7 +6609,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<colors>W</colors>
 		<pt>1/1</pt>
 	</prop>
-	<set num="1" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Rebel Soldier Token.jpg">SWC</set>
+	<set num="1" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Rebel Soldier Token.jpg">SWC</set>
 	<token>1</token>
 	<tablerow>2</tablerow>
 </card>
@@ -6622,7 +6622,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<cmc>0</cmc>
 		<pt>1/1</pt>
 	</prop>
-	<set num="10" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Droid Soldier Token.jpg">SWC</set>
+	<set num="10" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Droid Soldier Token.jpg">SWC</set>
 	<token>1</token>
 	<tablerow>2</tablerow>
 </card>
@@ -6636,7 +6636,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<colors>G</colors>
 		<pt>1/1</pt>
 	</prop>
-	<set num="8" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Ewok Warrior Token.jpg">SWC</set>
+	<set num="8" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Ewok Warrior Token.jpg">SWC</set>
 	<token>1</token>
 	<tablerow>2</tablerow>
 </card>
@@ -6650,7 +6650,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<colors>W</colors>
 		<pt>1/1</pt>
 	</prop>
-	<set num="2" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Trooper Token.jpg">SWC</set>
+	<set num="2" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Trooper Token.jpg">SWC</set>
 	<token>1</token>
 	<tablerow>2</tablerow>
 </card>
@@ -6664,7 +6664,7 @@ Strike Twice deals 6 damage to each of up to two target creatures and/or planesw
 		<cmc>0</cmc>
 		<pt>4/4</pt>
 	</prop>
-	<set num="9" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/AT-AT Token.jpg">SWC</set>
+	<set num="9" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/AT-AT Token.jpg">SWC</set>
 	<token>1</token>
 	<tablerow>2</tablerow>
 </card>
@@ -6679,7 +6679,7 @@ Crumb must be blocked by a creature with a bounty counter on it if able.</text>
 		<colors>BR</colors>
 		<pt>1/1</pt>
 	</prop>
-	<set num="6" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Crumb.jpg">SWC</set>
+	<set num="6" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Crumb.jpg">SWC</set>
 	<token>1</token>
 	<tablerow>2</tablerow>
 </card>
@@ -6693,7 +6693,7 @@ Crumb must be blocked by a creature with a bounty counter on it if able.</text>
 		<colors></colors>
 		<pt>1/1</pt>
 	</prop>
-	<set num="2" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Spirit Token.jpg">SWC</set>
+	<set num="2" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Spirit Token.jpg">SWC</set>
 	<token>1</token>
 	<tablerow>2</tablerow>
 </card>
@@ -6707,7 +6707,7 @@ Crumb must be blocked by a creature with a bounty counter on it if able.</text>
 		<colors>U</colors>
 		<pt>1/1</pt>
 	</prop>
-	<set num="2" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Gungan Warrior Token.jpg">SWC</set>
+	<set num="2" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Gungan Warrior Token.jpg">SWC</set>
 	<token>1</token>
 	<tablerow>2</tablerow>
 </card>
@@ -6720,7 +6720,7 @@ Crumb must be blocked by a creature with a bounty counter on it if able.</text>
 		<cmc>0</cmc>
 		<colors></colors>
 	</prop>
-	<set num="2" picurl="https://media.githubusercontent.com/media/triggrhappy0/swtg2025/main/Cards/jpgs/Meditate Token.jpg">SWC</set>
+	<set num="2" picurl="https://raw.githubusercontent.com/triggrhappy0/swtg2025/refs/heads/main/Cards/jpgs/Meditate Token.jpg">SWC</set>
 	<token>1</token>
 	<tablerow>2</tablerow>
 </card>
