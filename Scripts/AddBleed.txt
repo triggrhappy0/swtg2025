@@ -1,0 +1,6 @@
+for i in *.png
+do
+	filename="$(basename -- "$i" .png)"
+	echo "Working on $filename"
+	convert -background black -gravity center "$filename.png" -extent 2187x2975 "$filename.png"
+done
