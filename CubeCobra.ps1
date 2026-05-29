@@ -1,4 +1,4 @@
-﻿#Converts cards.xml to JSON compatible with draftmancer.com, and appends a cube list for use with the same site.
+﻿#Converts cards.xml to CSV compatible with importing into CubeCobra
 
 $xml = [xml](Get-Content -Encoding UTF8 -Raw .\swc.xml)
 
@@ -140,4 +140,4 @@ $outputArray = foreach ($card in $xml.cockatrice_carddatabase.cards.card)
         }
     }
 }
-$OutPutArray | Export-csv -Encoding UTF8 -Path "C:\Users\Kevin\Desktop\test.csv" -NoTypeInformation
+$OutPutArray | Export-csv -Encoding UTF8 -Path "C:\Users\Kevin\Desktop\CubeCobra.csv" -NoTypeInformation
