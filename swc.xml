@@ -4971,7 +4971,7 @@ Starships attacking this battle can't be blocked. Excess damage those creatures 
 </card>
 <card>
 	<name>The Battle of Kashyyyk</name>
-	<text>When this Siege enters, draw a card. Then you may put a land card from your hand onto the battlefield. </text>
+	<text>When this Siege enters, draw a card. Then you may put a land card from your hand onto the battlefield.</text>
 	<prop>
 		<layout>transform</layout>
 		<type>Battle — Siege</type>
